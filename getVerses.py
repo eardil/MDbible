@@ -25,7 +25,7 @@ def getVerses(passage,version):
 
 
 passage = ('Jude', 1, 2, 1, 2)
-version = "NIV"
+version = "KJV"
 
 print(getVerses(passage,version))
 
