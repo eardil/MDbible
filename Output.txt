@@ -1,0 +1,1905 @@
+<bound method BeautifulSoup.prettify of <!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Jude1:1-3:2 NIV - Jude, a servant of Jesus Christ and a - Bible Gateway</title>
+<link href="https://www.biblegateway.com/passage/?search=Jude&amp;version=NIV" rel="canonical"/>
+<meta content="https://static6-a.akamaihd.net/assets/images/logos/logo_bg-sharing.png?aeaa6cda" property="og:image"/>
+<meta content="https://static6-a.akamaihd.net/assets/images/logos/logo_bg-sharing.png?aeaa6cda" property="og:image:secure_url"/>
+<meta content="image/png" property="og:image:type"/>
+<meta content="200" property="og:image:width"/>
+<meta content="200" property="og:image:height"/>
+<meta content="Bible Gateway passage: Jude - New International Version" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.biblegateway.com/passage/?search=Jude&amp;version=NIV" property="og:url"/>
+<meta content="Bible Gateway" property="og:site_name"/>
+<meta content="Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved in God the Father and kept for Jesus Christ: Mercy, peace and love be yours in abundance. The Sin and Doom of Ungodly People - Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people. For certain individuals whose condemnation was written about long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord. Though you already know all this, I want to remind you that the Lord at one time delivered his people out of Egypt, but later destroyed those who did not believe." property="og:description"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@biblegateway" name="twitter:site"/>
+<meta content="https://www.biblegateway.com/passage/?search=Jude&amp;version=NIV" name="twitter:url"/>
+<meta content="Jude (NIV)" name="twitter:title"/>
+<meta content="Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved in God the Father and kept for Jesus Christ: Mercy, peace and love be yours in abundance. The Sin and ..." name="twitter:description"/>
+<meta content="Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved in God the Father and kept for Jesus Christ:" name="description"/>
+<meta content="biblegateway://bible/Jude.1.1/NIV" property="al:ios:url"/>
+<meta content="506512797" property="al:ios:app_store_id"/>
+<meta content="Bible Gateway" property="al:ios:app_name"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="BibleGateway" name="application-name"/><meta content="A searchable online Bible in over 100 versions and 50 languages" name="msapplication-tooltip"/><meta content="/" name="msapplication-starturl"/><meta content="name=Passage Lookup;action-uri=https://www.biblegateway.com/passage/;icon-uri=/favicon.ico" name="msapplication-task"/><meta content="name=Keyword Search;action-uri=https://www.biblegateway.com/keyword/;icon-uri=/favicon.ico" name="msapplication-task"/><meta content="name=Topical Index;action-uri=https://www.biblegateway.com/topical/;icon-uri=/favicon.ico" name="msapplication-task"/><meta content="name=Reading Plans;action-uri=https://www.biblegateway.com/reading-plans/;icon-uri=/favicon.ico" name="msapplication-task"/>
+<link href="https://static6-a.akamaihd.net/favicon.ico?aeaa6cda" rel="favorite icon" type="image/x-icon"/>
+<link href="https://static6-a.akamaihd.net/resources/opensearch/bgsearch.xml?aeaa6cda" rel="search" title="Bible Gateway" type="application/opensearchdescription+xml"/>
+<link href="https://static6-a.akamaihd.net/assets/images/ios/touch-icon-ipad.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://static6-a.akamaihd.net/assets/images/ios/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://static6-a.akamaihd.net/assets/images/ios/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152"/>
+<script src="https://static6-a.akamaihd.net/assets/js/head.min.js?aeaa6cda" type="text/javascript"></script><!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3008784-8']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['_setDomainName', '.biblegateway.com']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-40541058-2', {'sampleRate':100,'cookieDomain':'biblegateway.com'});
+  ga('set', 'referrer', '');
+  ga('set', 'title', '');
+  ga('send', {'hitType':'pageview','page':'/www/niv'});
+</script>
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().setTargeting("version", "NIV");
+        googletag.enableServices();
+  });
+        BG.registerBGA('Top');
+BG.registerBGA('SideTall');
+BG.registerBGA('Bottom');
+    BG.registerBGAGT(googletag);
+  BG.BGAInit('/6177/slm.bg/bible-niv');
+    </script>
+<link href="https://static6-a.akamaihd.net/assets/css/all.min.css?aeaa6cda" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://static6-a.akamaihd.net/assets/css/all.min.css?aeaa6cda" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://static6-a.akamaihd.net/assets/css/print.min.css?aeaa6cda" media="print" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 9]>  <script src="https://static6-a.akamaihd.net/assets/js/lib/html5.js"></script>
+  <script src="https://static6-a.akamaihd.net/assets/js/lib/respond/respond.min.js"></script>
+  <link href="https://static6-a.akamaihd.net/assets/js/lib/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+  <link href="/assets/js/lib/respond/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+  <script src="/assets/js/lib/respond/respond.proxy.js"></script>
+  <script src="https://static6-a.akamaihd.net/assets/js/ie8.js"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+  <link rel="stylesheet" type="text/css" href="https://static6-a.akamaihd.net/assets/css/ie9.css" />
+<![endif]-->
+</head>
+<body class="page-passage logged-out " ontouchstart="">
+<div id="close-mask"></div>
+<div class="mobile-close-mask"></div>
+<div class="mobile-close-mask-white"></div>
+<header>
+<nav class="navbar navbar-default container">
+<div class="nav-modal-version">
+<div class="nav-modal-trigger js-nav-modal-trigger">
+<span>Home</span>
+<span class="pull-right nav-open-icon icon-down-arrow"></span>
+</div>
+</div>
+<ul class="main-nav-menu nav navbar-nav nav-menu-version">
+<li class="main-nav-item">
+<a class="main-nav-home-icon icon-home" href="/"></a>
+</li>
+<li class="dropdown main-nav-mega-dropdown">
+<a class="main-level bible-nav" data-target=".main-nav-mega-dropdown" data-toggle="dropdown">Bible</a>
+<div class="dropdown-menus">
+<ul class="dropdown-menu">
+<li class="dropdown-item">
+<a href="/passage/">Passage Lookup</a>
+</li>
+<li class="dropdown-item">
+<a href="/keyword/">Keyword Search</a>
+</li>
+<li class="dropdown-item">
+<a href="/versions/">Available Versions</a>
+</li>
+<li class="dropdown-item">
+<a href="/resources/audio/">Audio Bibles</a>
+</li>
+<li class="dropdown-item">
+<a href="/resources/scripture-engagement/">Bible Engagement</a>
+</li>
+</ul>
+<ul class="dropdown-menu">
+<li class="dropdown-item">
+<a href="/topical/">Topical Index</a>
+</li>
+<li class="dropdown-item">
+<a href="/devotionals/">Devotionals</a>
+</li>
+<li class="dropdown-item">
+<a href="/reading-plans/">Reading Plans</a>
+</li>
+<li class="dropdown-item">
+<a href="/newsletters/">Newsletters</a>
+</li>
+<li class="dropdown-item">
+<a href="/resources/">More Resources</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="dropdown main-nav-mega-dropdown">
+<a class="main-level" data-target=".main-nav-mega-dropdown" data-toggle="dropdown">Study</a>
+</li>
+<li class="main-nav-item">
+<a class="main-level" href="/app/">App</a>
+</li>
+<li class="dropdown main-nav-shop-dropdown">
+<a class="main-level bible-nav" data-target=".main-nav-shop-dropdown" data-toggle="dropdown">Store</a>
+<ul class="dropdown-menu">
+<li class="dropdown-item">
+<a href="/digitalstore/" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'digitalstudies']);">Digital Products</a>
+</li>
+<li class="dropdown-item">
+<a href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-bibles?p=1182476" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'printbibles']);">Bibles</a>
+</li>
+<li class="dropdown-item">
+<a href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-bibles/bg-audio-bibles?p=1182477" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'audiobibles']);">Audio</a>
+</li>
+<li class="dropdown-item">
+<a href="http://biblegateway.christianbook.com/?p=1182478" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'more']);">More</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="login-btn-wrapper"><a class="btn navbar-btn btn-sign-in login-btn-in navbar-right" href="/login/">Log In</a></div>
+<div class="login-box clearfix">
+<div class="login-top">
+<div class="login-thingy"></div>
+<div class="login-title clearfix">
+<div class="login-close">×</div>
+<span class="login-title-text">Log In</span>
+</div>
+<div class="login-button-or"><span class="login-button-or-text">or</span></div>
+<div class="login-message">
+</div>
+</div>
+<div class="login-current login-section">
+<div class="login-heading">
+    Log In    <a class="login-heading-link login-box-link" href="#">Don't have an account?</a>
+</div>
+<form action="/login/" method="post">
+<input data-emptyerror="Email address is required." name="email" placeholder="Email" required="" type="email"/>
+<input data-emptyerror="Password is required." name="password" placeholder="Password" required="" type="password"/>
+<div class="login-option clearfix">
+<label>
+<input name="remember" type="checkbox"/> Remember Me</label>
+<a class="login-forgot login-box-link" href="/login/forgot/">Forgot Password?</a>
+</div>
+<input class="btn" type="submit" value="Log In"/>
+</form>
+</div>
+<div class="login-create login-section">
+<div class="login-heading">
+    Create Account    <a class="login-heading-link login-box-link" href="#">Log In</a>
+</div>
+<div class="benefits-link"><a href="/login">What are the benefits of creating an account?</a></div>
+<div class="login-intro">
+    Don't have an account? Creating an account allows you to access more features and content such as:    </div>
+<div class="login-feature">
+<div class="login-feature-icon icon-book"></div>
+<div class="login-feature-heading">Reading Plans</div>
+<div class="login-feature-text">Reading the Bible is rewarding, and these plans make it easy!</div>
+</div>
+<div class="login-feature">
+<div class="login-feature-icon icon-comment"></div>
+<div class="login-feature-heading">Personalization</div>
+<div class="login-feature-text">Take notes, highlights, and favorites to share or document personal thoughts</div>
+</div>
+<div class="login-feature">
+<div class="login-feature-icon icon-sync"></div>
+<div class="login-feature-heading">Syncing</div>
+<div class="login-feature-text">All your content will be saved and you can seamlessly switch devices.</div>
+</div>
+<div class="login-feature">
+<div class="login-feature-icon icon-plus"></div>
+<div class="login-feature-heading">Bible Gateway Plus</div>
+<div class="login-feature-text">Fewer ads and access to excellent study Bible materials with an optional paid upgrade to Bible Gateway Plus.</div>
+</div>
+<div>
+<form action="/register/" method="post">
+<input name="form_code" type="hidden" value="bg6-register_popup-en-d-d13663ca99"/>
+<div class="login-create-inputs clearfix">
+<div class="login-input-group">
+<input class="login-input-first-name" data-emptyerror="First Name is required." name="first_name" placeholder="First Name" required="" type="text"/>
+<input class="login-input-last-name" data-emptyerror="Last Name is required." name="last_name" placeholder="Last Name" required="" type="text"/>
+<input class="login-input-email" name="email" placeholder="Email" required="" type="email"/>
+</div>
+<div class="login-input-group">
+<input name="password" placeholder="Password" required="" type="password"/>
+<div class="login-option">
+<label><input data-emptyerror="Please accept the Terms and Conditions." id="login-box-agree" name="terms" required="" type="checkbox"/> I agree to the <a href="/legal/terms/" target="_blank">Terms of Use</a></label>
+</div>
+</div>
+</div>
+<input class="btn login-btn-create" type="submit" value="Create Account"/>
+</form>
+</div>
+</div>
+<div class="login-bottom">
+<a class="login-with-facebook btn" href="#"><span class="btn-icon icon-facebook"></span>Log in with Facebook</a>
+</div>
+</div>
+<a class="btn navbar-btn btn-sign-in login-btn-out navbar-right" href="/logout/">Log Out</a>
+<ul class="navbar-nav nav navbar-right login-open-menu">
+<li class="main-nav-account-dropdown">
+<a class="main-level" data-target=".main-nav-account-dropdown" data-toggle="dropdown" href="/user/"><span class="account-fullname">My Account</span>
+<script>BG.UserInfo.updateFullname();</script>
+<span class="account-dropdown-indicator"><span class="account-dropdown-arrow"></span></span></a>
+<ul class="dropdown-menu">
+<div class="logged-in-thingy"></div>
+<li class="dropdown-item my-library"><a href="/user/products/">My Library</a></li>
+<li class="dropdown-item"><a href="/user/annotations/">My Annotations</a></li>
+<li class="dropdown-item"><a href="/user/account/">Account Settings</a></li>
+<li class="dropdown-item"><a class="login-btn-out" href="/logout/">Log Out</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<script>BG.UserInfo.updateNavLinks();</script>
+</header>
+<section class="search-section">
+<div class="container">
+<div class="standard-row">
+<div class="bg-search-logo">
+<img class="bg-print-logo" src="https://static6-a.akamaihd.net/assets/images/bg-logo-black@2x.png?aeaa6cda"/>
+<a href="//www.biblegateway.com/">
+<h1>BibleGateway</h1>
+</a>
+</div>
+<div class="search-controls">
+<div class="search-all-wrapper">
+<div class="search-form-wrapper">
+<form action="/quicksearch/" class="quicksearch">
+<div class="form-group search-input col-sm-6">
+<label class="sr-only" for="search-input">Search</label>
+<div class="search-field">
+<input class="search-input-field form-control js-search-input" id="quicksearch-field" name="quicksearch" placeholder="Enter keyword, passage, or topic" value="Jude1:1-3:2"/>
+<span class="search-btn-on-input">
+<button class="btn btn-default icon-search search-btn" type="submit"></button>
+</span>
+</div>
+</div>
+<div class="form-group search-translation-select-group col-sm-6">
+<div class="search-translation">
+<div class="bg-select-wrapper search-translation-select-wrapper">
+<select class="search-translation-select translation-select-default form-control" name="qs_version"><option class="lang" value="AMU">—Amuzgo de Guerrero (AMU)—</option>
+<option value="AMU">Amuzgo de Guerrero (AMU)</option>
+<option class="spacer" value="AMU"> </option>
+<option class="lang" value="ERV-AR">—العربية (AR)—</option>
+<option value="ERV-AR">Arabic Bible: Easy-to-Read Version (ERV-AR)</option>
+<option value="NAV">Ketab El Hayat (NAV)</option>
+<option class="spacer" value="NAV"> </option>
+<option class="lang" value="ERV-AWA">—अवधी (AWA)—</option>
+<option value="ERV-AWA">Awadhi Bible: Easy-to-Read Version (ERV-AWA)</option>
+<option class="spacer" value="ERV-AWA"> </option>
+<option class="lang" value="BG1940">—Български (BG)—</option>
+<option value="BG1940">1940 Bulgarian Bible (BG1940)</option>
+<option value="BULG">Bulgarian Bible (BULG)</option>
+<option value="ERV-BG">Bulgarian New Testament: Easy-to-Read Version (ERV-BG)</option>
+<option value="BPB">Bulgarian Protestant Bible (BPB)</option>
+<option class="spacer" value="BPB"> </option>
+<option class="lang" value="CCO">—Chinanteco de Comaltepec (CCO)—</option>
+<option value="CCO">Chinanteco de Comaltepec (CCO)</option>
+<option class="spacer" value="CCO"> </option>
+<option class="lang" value="APSD-CEB">—Cebuano (CEB)—</option>
+<option value="APSD-CEB">Ang Pulong Sa Dios (APSD-CEB)</option>
+<option class="spacer" value="APSD-CEB"> </option>
+<option class="lang" value="CHR">—ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)—</option>
+<option value="CHR">Cherokee New Testament (CHR)</option>
+<option class="spacer" value="CHR"> </option>
+<option class="lang" value="CKW">—Cakchiquel Occidental (CKW)—</option>
+<option value="CKW">Cakchiquel Occidental (CKW)</option>
+<option class="spacer" value="CKW"> </option>
+<option class="lang" value="B21">—Čeština (CS)—</option>
+<option value="B21">Bible 21 (B21)</option>
+<option value="SNC">Slovo na cestu (SNC)</option>
+<option class="spacer" value="SNC"> </option>
+<option class="lang" value="BWM">—Cymraeg (CY)—</option>
+<option value="BWM">Beibl William Morgan (BWM)</option>
+<option class="spacer" value="BWM"> </option>
+<option class="lang" value="BPH">—Dansk (DA)—</option>
+<option value="BPH">Bibelen på hverdagsdansk (BPH)</option>
+<option value="DN1933">Dette er Biblen på dansk (DN1933)</option>
+<option class="spacer" value="DN1933"> </option>
+<option class="lang" value="HOF">—Deutsch (DE)—</option>
+<option value="HOF">Hoffnung für Alle (HOF)</option>
+<option value="LUTH1545">Luther Bibel 1545 (LUTH1545)</option>
+<option value="NGU-DE">Neue Genfer Übersetzung (NGU-DE)</option>
+<option value="SCH1951">Schlachter 1951 (SCH1951)</option>
+<option value="SCH2000">Schlachter 2000 (SCH2000)</option>
+<option class="spacer" value="SCH2000"> </option>
+<option class="lang" value="KJ21">—English (EN)—</option>
+<option value="KJ21">21st Century King James Version (KJ21)</option>
+<option value="ASV">American Standard Version (ASV)</option>
+<option value="AMP">Amplified Bible (AMP)</option>
+<option value="AMPC">Amplified Bible, Classic Edition (AMPC)</option>
+<option value="BRG">BRG Bible (BRG)</option>
+<option value="CEB">Common English Bible (CEB)</option>
+<option value="CJB">Complete Jewish Bible (CJB)</option>
+<option value="CEV">Contemporary English Version (CEV)</option>
+<option value="DARBY">Darby Translation (DARBY)</option>
+<option value="DLNT">Disciples’ Literal New Testament (DLNT)</option>
+<option value="DRA">Douay-Rheims 1899 American Edition (DRA)</option>
+<option value="ERV">Easy-to-Read Version (ERV)</option>
+<option value="ESV">English Standard Version (ESV)</option>
+<option value="ESVUK">English Standard Version Anglicised (ESVUK)</option>
+<option value="EXB">Expanded Bible (EXB)</option>
+<option value="GNV">1599 Geneva Bible (GNV)</option>
+<option value="GW">GOD’S WORD Translation (GW)</option>
+<option value="GNT">Good News Translation (GNT)</option>
+<option value="HCSB">Holman Christian Standard Bible (HCSB)</option>
+<option value="ICB">International Children’s Bible (ICB)</option>
+<option value="ISV">International Standard Version (ISV)</option>
+<option value="PHILLIPS">J.B. Phillips New Testament (PHILLIPS)</option>
+<option value="JUB">Jubilee Bible 2000 (JUB)</option>
+<option value="KJV">King James Version (KJV)</option>
+<option value="AKJV">Authorized (King James) Version (AKJV)</option>
+<option value="LEB">Lexham English Bible (LEB)</option>
+<option value="TLB">Living Bible (TLB)</option>
+<option value="MSG">The Message (MSG)</option>
+<option value="MEV">Modern English Version (MEV)</option>
+<option value="MOUNCE">Mounce Reverse-Interlinear New Testament (MOUNCE)</option>
+<option value="NOG">Names of God Bible (NOG)</option>
+<option value="NABRE">New American Bible (Revised Edition) (NABRE)</option>
+<option value="NASB">New American Standard Bible (NASB)</option>
+<option value="NCV">New Century Version (NCV)</option>
+<option value="NET">New English Translation (NET Bible)</option>
+<option value="NIRV">New International Reader's Version (NIRV)</option>
+<option selected="selected" value="NIV">New International Version (NIV)</option>
+<option value="NIVUK">New International Version - UK (NIVUK)</option>
+<option value="NKJV">New King James Version (NKJV)</option>
+<option value="NLV">New Life Version (NLV)</option>
+<option value="NLT">New Living Translation (NLT)</option>
+<option value="NRSV">New Revised Standard Version (NRSV)</option>
+<option value="NRSVA">New Revised Standard Version, Anglicised (NRSVA)</option>
+<option value="NRSVACE">New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)</option>
+<option value="NRSVCE">New Revised Standard Version Catholic Edition (NRSVCE)</option>
+<option value="OJB">Orthodox Jewish Bible (OJB)</option>
+<option value="RSV">Revised Standard Version (RSV)</option>
+<option value="RSVCE">Revised Standard Version Catholic Edition (RSVCE)</option>
+<option value="VOICE">The Voice (VOICE)</option>
+<option value="WEB">World English Bible (WEB)</option>
+<option value="WE">Worldwide English (New Testament) (WE)</option>
+<option value="WYC">Wycliffe Bible (WYC)</option>
+<option value="YLT">Young's Literal Translation (YLT)</option>
+<option class="spacer" value="YLT"> </option>
+<option class="lang" value="LBLA">—Español (ES)—</option>
+<option value="LBLA">La Biblia de las Américas (LBLA)</option>
+<option value="DHH">Dios Habla Hoy (DHH)</option>
+<option value="JBS">Jubilee Bible 2000 (Spanish) (JBS)</option>
+<option value="NBD">Nueva Biblia al Día (NBD)</option>
+<option value="NBLH">Nueva Biblia Latinoamericana de Hoy (NBLH)</option>
+<option value="NTV">Nueva Traducción Viviente (NTV)</option>
+<option value="NVI">Nueva Versión Internacional (NVI)</option>
+<option value="CST">Nueva Versión Internacional (Castilian) (CST)</option>
+<option value="PDT">Palabra de Dios para Todos (PDT)</option>
+<option value="BLP">La Palabra (España) (BLP)</option>
+<option value="BLPH">La Palabra (Hispanoamérica) (BLPH)</option>
+<option value="RVC">Reina Valera Contemporánea (RVC)</option>
+<option value="RVR1960">Reina-Valera 1960 (RVR1960)</option>
+<option value="RVR1977">Reina Valera 1977 (RVR1977)</option>
+<option value="RVR1995">Reina-Valera 1995 (RVR1995)</option>
+<option value="RVA">Reina-Valera Antigua (RVA)</option>
+<option value="TLA">Traducción en lenguaje actual (TLA)</option>
+<option class="spacer" value="TLA"> </option>
+<option class="lang" value="R1933">—Suomi (FI)—</option>
+<option value="R1933">Raamattu 1933/38 (R1933)</option>
+<option class="spacer" value="R1933"> </option>
+<option class="lang" value="BDS">—Français (FR)—</option>
+<option value="BDS">La Bible du Semeur (BDS)</option>
+<option value="LSG">Louis Segond (LSG)</option>
+<option value="NEG1979">Nouvelle Edition de Genève – NEG1979 (NEG1979)</option>
+<option value="SG21">Segond 21 (SG21)</option>
+<option class="spacer" value="SG21"> </option>
+<option class="lang" value="TR1550">—Κοινη (GRC)—</option>
+<option value="TR1550">1550 Stephanus New Testament (TR1550)</option>
+<option value="WHNU">1881 Westcott-Hort New Testament (WHNU)</option>
+<option value="TR1894">1894 Scrivener New Testament (TR1894)</option>
+<option value="SBLGNT">SBL Greek New Testament (SBLGNT)</option>
+<option class="spacer" value="SBLGNT"> </option>
+<option class="lang" value="HHH">—עברית (HE)—</option>
+<option value="HHH">Habrit Hakhadasha/Haderekh (HHH)</option>
+<option value="WLC">The Westminster Leningrad Codex (WLC)</option>
+<option class="spacer" value="WLC"> </option>
+<option class="lang" value="ERV-HI">—हिन्दी (HI)—</option>
+<option value="ERV-HI">Hindi Bible: Easy-to-Read Version (ERV-HI)</option>
+<option class="spacer" value="ERV-HI"> </option>
+<option class="lang" value="HLGN">—Ilonggo (HIL)—</option>
+<option value="HLGN">Ang Pulong Sang Dios (HLGN)</option>
+<option class="spacer" value="HLGN"> </option>
+<option class="lang" value="HNZ-RI">—Hrvatski (HR)—</option>
+<option value="HNZ-RI">Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI)</option>
+<option value="CRO">Knijga O Kristu (CRO)</option>
+<option class="spacer" value="CRO"> </option>
+<option class="lang" value="HCV">—Kreyòl ayisyen (HT)—</option>
+<option value="HCV">Haitian Creole Version (HCV)</option>
+<option class="spacer" value="HCV"> </option>
+<option class="lang" value="KAR">—Magyar (HU)—</option>
+<option value="KAR">Hungarian Károli (KAR)</option>
+<option value="ERV-HU">Hungarian Bible: Easy-to-Read Version (ERV-HU)</option>
+<option value="NT-HU">Hungarian New Translation (NT-HU)</option>
+<option class="spacer" value="NT-HU"> </option>
+<option class="lang" value="HWP">—Hawai‘i Pidgin (HWC)—</option>
+<option value="HWP">Hawai‘i Pidgin (HWP)</option>
+<option class="spacer" value="HWP"> </option>
+<option class="lang" value="ICELAND">—Íslenska (IS)—</option>
+<option value="ICELAND">Icelandic Bible (ICELAND)</option>
+<option class="spacer" value="ICELAND"> </option>
+<option class="lang" value="BDG">—Italiano (IT)—</option>
+<option value="BDG">La Bibbia della Gioia (BDG)</option>
+<option value="CEI">Conferenza Episcopale Italiana (CEI)</option>
+<option value="LND">La Nuova Diodati (LND)</option>
+<option value="NR1994">Nuova Riveduta 1994 (NR1994)</option>
+<option value="NR2006">Nuova Riveduta 2006 (NR2006)</option>
+<option class="spacer" value="NR2006"> </option>
+<option class="lang" value="JAC">—Jacalteco, Oriental (JAC)—</option>
+<option value="JAC">Jacalteco, Oriental (JAC)</option>
+<option class="spacer" value="JAC"> </option>
+<option class="lang" value="KEK">—Kekchi (KEK)—</option>
+<option value="KEK">Kekchi (KEK)</option>
+<option class="spacer" value="KEK"> </option>
+<option class="lang" value="VULGATE">—Latina (LA)—</option>
+<option value="VULGATE">Biblia Sacra Vulgata (VULGATE)</option>
+<option class="spacer" value="VULGATE"> </option>
+<option class="lang" value="MAORI">—Māori (MI)—</option>
+<option value="MAORI">Maori Bible (MAORI)</option>
+<option class="spacer" value="MAORI"> </option>
+<option class="lang" value="MNT">—Македонски (MK)—</option>
+<option value="MNT">Macedonian New Testament (MNT)</option>
+<option class="spacer" value="MNT"> </option>
+<option class="lang" value="ERV-MR">—मराठी (MR)—</option>
+<option value="ERV-MR">Marathi Bible: Easy-to-Read Version (ERV-MR)</option>
+<option class="spacer" value="ERV-MR"> </option>
+<option class="lang" value="MVC">—Mam, Central (MVC)—</option>
+<option value="MVC">Mam, Central (MVC)</option>
+<option class="spacer" value="MVC"> </option>
+<option class="lang" value="MVJ">—Mam, Todos Santos (MVJ)—</option>
+<option value="MVJ">Mam de Todos Santos Chuchumatán (MVJ)</option>
+<option class="spacer" value="MVJ"> </option>
+<option class="lang" value="REIMER">—Plautdietsch (NDS)—</option>
+<option value="REIMER">Reimer 2001 (REIMER)</option>
+<option class="spacer" value="REIMER"> </option>
+<option class="lang" value="ERV-NE">—नेपाली (NE)—</option>
+<option value="ERV-NE">Nepali Bible: Easy-to-Read Version (ERV-NE)</option>
+<option class="spacer" value="ERV-NE"> </option>
+<option class="lang" value="NGU">—Náhuatl de Guerrero (NGU)—</option>
+<option value="NGU">Náhuatl de Guerrero (NGU)</option>
+<option class="spacer" value="NGU"> </option>
+<option class="lang" value="HTB">—Nederlands (NL)—</option>
+<option value="HTB">Het Boek (HTB)</option>
+<option class="spacer" value="HTB"> </option>
+<option class="lang" value="DNB1930">—Norsk (NO)—</option>
+<option value="DNB1930">Det Norsk Bibelselskap 1930 (DNB1930)</option>
+<option value="LB">En Levende Bok (LB)</option>
+<option class="spacer" value="LB"> </option>
+<option class="lang" value="ERV-OR">—ଓଡ଼ିଆ (OR)—</option>
+<option value="ERV-OR">Oriya Bible: Easy-to-Read Version (ERV-OR)</option>
+<option class="spacer" value="ERV-OR"> </option>
+<option class="lang" value="ERV-PA">—ਪੰਜਾਬੀ (PA)—</option>
+<option value="ERV-PA">Punjabi Bible: Easy-to-Read Version (ERV-PA)</option>
+<option class="spacer" value="ERV-PA"> </option>
+<option class="lang" value="NP">—Polski (PL)—</option>
+<option value="NP">Nowe Przymierze (NP)</option>
+<option value="SZ-PL">Słowo Życia (SZ-PL)</option>
+<option value="UBG">Updated Gdańsk Bible (UBG)</option>
+<option class="spacer" value="UBG"> </option>
+<option class="lang" value="NBTN">—Nawat (PPL)—</option>
+<option value="NBTN">Ne Bibliaj Tik Nawat (NBTN)</option>
+<option class="spacer" value="NBTN"> </option>
+<option class="lang" value="ARC">—Português (PT)—</option>
+<option value="ARC">Almeida Revista e Corrigida 2009 (ARC)</option>
+<option value="NTLH">Nova Traduҫão na Linguagem de Hoje 2000 (NTLH)</option>
+<option value="NVI-PT">Nova Versão Internacional (NVI-PT)</option>
+<option value="OL">O Livro (OL)</option>
+<option value="VFL">Portuguese New Testament: Easy-to-Read Version (VFL)</option>
+<option class="spacer" value="VFL"> </option>
+<option class="lang" value="MTDS">—Quichua (QU)—</option>
+<option value="MTDS">Mushuj Testamento Diospaj Shimi (MTDS)</option>
+<option class="spacer" value="MTDS"> </option>
+<option class="lang" value="QUT">—Quiché, Centro Occidenta (QUT)—</option>
+<option value="QUT">Quiché, Centro Occidental (QUT)</option>
+<option class="spacer" value="QUT"> </option>
+<option class="lang" value="RMNN">—Română (RO)—</option>
+<option value="RMNN">Cornilescu 1924 - Revised 2010, 2014 (RMNN)</option>
+<option value="NTLR">Nouă Traducere În Limba Română (NTLR)</option>
+<option class="spacer" value="NTLR"> </option>
+<option class="lang" value="NRT">—Русский (RU)—</option>
+<option value="NRT">New Russian Translation (NRT)</option>
+<option value="CARS">Священное Писание (Восточный Перевод) (CARS)</option>
+<option value="CARST">Священное Писание (Восточный перевод), версия для Таджикистана (CARST)</option>
+<option value="CARSA">Священное Писание (Восточный перевод), версия с «Аллахом» (CARSA)</option>
+<option value="ERV-RU">Russian New Testament: Easy-to-Read Version (ERV-RU)</option>
+<option value="RUSV">Russian Synodal Version (RUSV)</option>
+<option class="spacer" value="RUSV"> </option>
+<option class="lang" value="NPK">—Slovenčina (SK)—</option>
+<option value="NPK">Nádej pre kazdého (NPK)</option>
+<option class="spacer" value="NPK"> </option>
+<option class="lang" value="SOM">—Somali (SO)—</option>
+<option value="SOM">Somali Bible (SOM)</option>
+<option class="spacer" value="SOM"> </option>
+<option class="lang" value="ALB">—Shqip (SQ)—</option>
+<option value="ALB">Albanian Bible (ALB)</option>
+<option class="spacer" value="ALB"> </option>
+<option class="lang" value="ERV-SR">—Српски (SR)—</option>
+<option value="ERV-SR">Serbian New Testament: Easy-to-Read Version (ERV-SR)</option>
+<option class="spacer" value="ERV-SR"> </option>
+<option class="lang" value="SVL">—Svenska (SV)—</option>
+<option value="SVL">Nya Levande Bibeln (SVL)</option>
+<option value="SV1917">Svenska 1917 (SV1917)</option>
+<option value="SFB">Svenska Folkbibeln (SFB)</option>
+<option value="SFB2014">Svenska Folkbibeln 2014 (SFB2014)</option>
+<option class="spacer" value="SFB2014"> </option>
+<option class="lang" value="SNT">—Kiswahili (SW)—</option>
+<option value="SNT">Neno: Bibilia Takatifu (SNT)</option>
+<option class="spacer" value="SNT"> </option>
+<option class="lang" value="ERV-TA">—தமிழ் (TA)—</option>
+<option value="ERV-TA">Tamil Bible: Easy-to-Read Version (ERV-TA)</option>
+<option class="spacer" value="ERV-TA"> </option>
+<option class="lang" value="TNCV">—ภาษาไทย (TH)—</option>
+<option value="TNCV">Thai New Contemporary Bible (TNCV)</option>
+<option value="ERV-TH">Thai New Testament: Easy-to-Read Version (ERV-TH)</option>
+<option class="spacer" value="ERV-TH"> </option>
+<option class="lang" value="ADB1905">—Tagalog (TL)—</option>
+<option value="ADB1905">Ang Dating Biblia (1905) (ADB1905)</option>
+<option value="SND">Ang Salita ng Diyos (SND)</option>
+<option class="spacer" value="SND"> </option>
+<option class="lang" value="NA-TWI">—Twi (TWI)—</option>
+<option value="NA-TWI">Nkwa Asem (NA-TWI)</option>
+<option class="spacer" value="NA-TWI"> </option>
+<option class="lang" value="UKR">—Українська (UK)—</option>
+<option value="UKR">Ukrainian Bible (UKR)</option>
+<option value="ERV-UK">Ukrainian New Testament: Easy-to-Read Version (ERV-UK)</option>
+<option class="spacer" value="ERV-UK"> </option>
+<option class="lang" value="ERV-UR">—اردو (UR)—</option>
+<option value="ERV-UR">Urdu Bible: Easy-to-Read Version (ERV-UR)</option>
+<option class="spacer" value="ERV-UR"> </option>
+<option class="lang" value="USP">—Uspanteco (USP)—</option>
+<option value="USP">Uspanteco (USP)</option>
+<option class="spacer" value="USP"> </option>
+<option class="lang" value="VIET">—Tiêng Viêt (VI)—</option>
+<option value="VIET">1934 Vietnamese Bible (VIET)</option>
+<option value="BD2011">Bản Dịch 2011 (BD2011)</option>
+<option value="BPT">Vietnamese Bible: Easy-to-Read Version (BPT)</option>
+<option class="spacer" value="BPT"> </option>
+<option class="lang" value="CCB">—汉语 (ZH)—</option>
+<option value="CCB">Chinese Contemporary Bible (CCB)</option>
+<option value="ERV-ZH">Chinese New Testament: Easy-to-Read Version (ERV-ZH)</option>
+<option value="CNVS">Chinese New Version (Simplified) (CNVS)</option>
+<option value="CNVT">Chinese New Version (Traditional) (CNVT)</option>
+<option value="CSBS">Chinese Standard Bible (Simplified) (CSBS)</option>
+<option value="CSBT">Chinese Standard Bible (Traditional) (CSBT)</option>
+<option value="CUVS">Chinese Union Version (Simplified) (CUVS)</option>
+<option value="CUV">Chinese Union Version (Traditional) (CUV)</option>
+<option value="CUVMPS">Chinese Union Version Modern Punctuation (Simplified) (CUVMPS)</option>
+<option value="CUVMPT">Chinese Union Version Modern Punctuation (Traditional) (CUVMPT)</option>
+</select>
+</div>
+</div>
+<span class="search-btn-on-select">
+<button aria-label="Search" class="btn btn-default search-btn icon-search" type="submit">
+<span class="search-btn-text">Search</span>
+</button>
+</span>
+</div>
+<div class="clear"></div>
+</form>
+<div class="font-change-controls">
+<span class="xsmall">A</span>
+<span class="small">A</span>
+<span class="medium">A</span>
+<span class="large">A</span>
+<span class="xlarge">A</span>
+</div>
+<a class="search-bbl" href="/versions/?action=getVersionInfo&amp;vid=NIV&amp;window_location=books" id="search-bbl"><span class="search-bbl-text">Bible Book List</span> <span class="toggle-arrow"></span></a>
+<div id="bbl-wrapper">
+<div class="clearfix" id="bbl">
+</div><!-- #bbl -->
+</div><!-- #bbl-wrapper -->
+</div><!-- .search-form-wrapper -->
+<div class="bbl-chapters-mask">
+<div class="bbl-chapters-container">
+<ul class="bbl-chapters-tabs clearfix">
+</ul><!-- .bbl-chapters-tabs -->
+<div class="bbl-chapters-scroll">
+</div><!-- .bbl-chapters-scroll -->
+</div><!-- .bbl-chapters-container -->
+</div><!-- .bbl-chapters-mask -->
+</div><!-- .search-all-wrapper -->
+</div><!-- .search-controls -->
+</div>
+</div>
+</section>
+<section class="sys-announce js-sys-announce">
+<div class="container container-inset container">
+<div class="row">
+<div class="sys-announce-wrapper col-lg-12">
+<button aria-hidden="" class="close" type="button">×</button>
+<p class="sys-announce-title"></p>
+<p class="sys-announce-body"><a href="https://www.biblegateway.com/forms/how-to-understand-the-bible">Our new "How to Study the Bible" series starts soon! Sign up today.</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="bga leader bga-top">
+<div class="bga-column">
+<div class="bga-wrap">
+<div class="bga-placement">
+<div id="bga-gt-top">
+<script type="text/javascript">
+BG.renderBGA('Top');
+</script>
+</div> </div>
+</div>
+</div>
+</section>
+<section class="narrow-resources passage single-translation sidebar-info show-alc content-section">
+<div class="container">
+<div class="row">
+<div class="passage-main">
+<div class="passage-main-wrap">
+<div class="passage-resource-table">
+<div class="passage-bible">
+<div class="passage-box passage-box-1" data-osis="Jude.1.1-Jude.1.25" data-passage-num="1">
+<div class="passage-resources-link open-link">
+<span class="icon-resources-close"></span>
+<span class="related-resources">Study This</span>
+</div>
+<div class="passage-bar show-resources-link">
+<div class="passage-tools">
+<div class="passage-details">
+<div class="passage-details-wrapper">
+<h1 class="bcv">Jude</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="passage-scroller-top-wrapper">
+<div class="passage-scroller-top bottom-scroller">
+<a class="prev-link" href="/passage/?search=3%20John%201&amp;version=NIV" title="3 John 1"><span class="icon-passage-previous"></span><span class="heading">3 John 1</span></a><a class="next-link" href="/passage/?search=Revelation%201&amp;version=NIV" title="Revelation 1"><span class="heading">Revelation 1</span><span class="icon-passage-next"></span></a> <div style="clear:left"></div>
+</div>
+</div>
+<div class="passage-table">
+<div class="prev-chapter"><a href="/passage/?search=3%20John%201&amp;version=NIV" title="3 John 1"><span class="icon-passage-previous"></span></a></div>
+<table class="passage-cols">
+<td class="passage-col col-xs-12 first last"><div class="passage-tools2">
+<div class="passage-updatetranslation bg-select-wrapper info-viewer-translation-select-wrapper">
+<select class="translation-dropdown-small" data-prefname="default_version"><option class="lang" value="AMU">—AMU—</option>
+<option value="AMU">AMU</option>
+<option class="spacer" value="AMU"> </option>
+<option class="lang" value="ERV-AR">—AR—</option>
+<option value="ERV-AR">ERV-AR</option>
+<option value="NAV">NAV</option>
+<option class="spacer" value="NAV"> </option>
+<option class="lang" value="ERV-AWA">—AWA—</option>
+<option value="ERV-AWA">ERV-AWA</option>
+<option class="spacer" value="ERV-AWA"> </option>
+<option class="lang" value="BG1940">—BG—</option>
+<option value="BG1940">BG1940</option>
+<option value="BULG">BULG</option>
+<option value="ERV-BG">ERV-BG</option>
+<option value="BPB">BPB</option>
+<option class="spacer" value="BPB"> </option>
+<option class="lang" value="CCO">—CCO—</option>
+<option value="CCO">CCO</option>
+<option class="spacer" value="CCO"> </option>
+<option class="lang" value="APSD-CEB">—CEB—</option>
+<option value="APSD-CEB">APSD-CEB</option>
+<option class="spacer" value="APSD-CEB"> </option>
+<option class="lang" value="CHR">—CHR—</option>
+<option value="CHR">CHR</option>
+<option class="spacer" value="CHR"> </option>
+<option class="lang" value="CKW">—CKW—</option>
+<option value="CKW">CKW</option>
+<option class="spacer" value="CKW"> </option>
+<option class="lang" value="B21">—CS—</option>
+<option value="B21">B21</option>
+<option value="SNC">SNC</option>
+<option class="spacer" value="SNC"> </option>
+<option class="lang" value="BWM">—CY—</option>
+<option value="BWM">BWM</option>
+<option class="spacer" value="BWM"> </option>
+<option class="lang" value="BPH">—DA—</option>
+<option value="BPH">BPH</option>
+<option value="DN1933">DN1933</option>
+<option class="spacer" value="DN1933"> </option>
+<option class="lang" value="HOF">—DE—</option>
+<option value="HOF">HOF</option>
+<option value="LUTH1545">LUTH1545</option>
+<option value="NGU-DE">NGU-DE</option>
+<option value="SCH1951">SCH1951</option>
+<option value="SCH2000">SCH2000</option>
+<option class="spacer" value="SCH2000"> </option>
+<option class="lang" value="KJ21">—EN—</option>
+<option value="KJ21">KJ21</option>
+<option value="ASV">ASV</option>
+<option value="AMP">AMP</option>
+<option value="AMPC">AMPC</option>
+<option value="BRG">BRG</option>
+<option value="CEB">CEB</option>
+<option value="CJB">CJB</option>
+<option value="CEV">CEV</option>
+<option value="DARBY">DARBY</option>
+<option value="DLNT">DLNT</option>
+<option value="DRA">DRA</option>
+<option value="ERV">ERV</option>
+<option value="ESV">ESV</option>
+<option value="ESVUK">ESVUK</option>
+<option value="EXB">EXB</option>
+<option value="GNV">GNV</option>
+<option value="GW">GW</option>
+<option value="GNT">GNT</option>
+<option value="HCSB">HCSB</option>
+<option value="ICB">ICB</option>
+<option value="ISV">ISV</option>
+<option value="PHILLIPS">PHILLIPS</option>
+<option value="JUB">JUB</option>
+<option value="KJV">KJV</option>
+<option value="AKJV">AKJV</option>
+<option value="LEB">LEB</option>
+<option value="TLB">TLB</option>
+<option value="MSG">MSG</option>
+<option value="MEV">MEV</option>
+<option value="MOUNCE">MOUNCE</option>
+<option value="NOG">NOG</option>
+<option value="NABRE">NABRE</option>
+<option value="NASB">NASB</option>
+<option value="NCV">NCV</option>
+<option value="NET">NET</option>
+<option value="NIRV">NIRV</option>
+<option selected="selected" value="NIV">NIV</option>
+<option value="NIVUK">NIVUK</option>
+<option value="NKJV">NKJV</option>
+<option value="NLV">NLV</option>
+<option value="NLT">NLT</option>
+<option value="NRSV">NRSV</option>
+<option value="NRSVA">NRSVA</option>
+<option value="NRSVACE">NRSVACE</option>
+<option value="NRSVCE">NRSVCE</option>
+<option value="OJB">OJB</option>
+<option value="RSV">RSV</option>
+<option value="RSVCE">RSVCE</option>
+<option value="VOICE">VOICE</option>
+<option value="WEB">WEB</option>
+<option value="WE">WE</option>
+<option value="WYC">WYC</option>
+<option value="YLT">YLT</option>
+<option class="spacer" value="YLT"> </option>
+<option class="lang" value="LBLA">—ES—</option>
+<option value="LBLA">LBLA</option>
+<option value="DHH">DHH</option>
+<option value="JBS">JBS</option>
+<option value="NBD">NBD</option>
+<option value="NBLH">NBLH</option>
+<option value="NTV">NTV</option>
+<option value="NVI">NVI</option>
+<option value="CST">CST</option>
+<option value="PDT">PDT</option>
+<option value="BLP">BLP</option>
+<option value="BLPH">BLPH</option>
+<option value="RVC">RVC</option>
+<option value="RVR1960">RVR1960</option>
+<option value="RVR1977">RVR1977</option>
+<option value="RVR1995">RVR1995</option>
+<option value="RVA">RVA</option>
+<option value="TLA">TLA</option>
+<option class="spacer" value="TLA"> </option>
+<option class="lang" value="R1933">—FI—</option>
+<option value="R1933">R1933</option>
+<option class="spacer" value="R1933"> </option>
+<option class="lang" value="BDS">—FR—</option>
+<option value="BDS">BDS</option>
+<option value="LSG">LSG</option>
+<option value="NEG1979">NEG1979</option>
+<option value="SG21">SG21</option>
+<option class="spacer" value="SG21"> </option>
+<option class="lang" value="TR1550">—GRC—</option>
+<option value="TR1550">TR1550</option>
+<option value="WHNU">WHNU</option>
+<option value="TR1894">TR1894</option>
+<option value="SBLGNT">SBLGNT</option>
+<option class="spacer" value="SBLGNT"> </option>
+<option class="lang" value="HHH">—HE—</option>
+<option value="HHH">HHH</option>
+<option value="WLC">WLC</option>
+<option class="spacer" value="WLC"> </option>
+<option class="lang" value="ERV-HI">—HI—</option>
+<option value="ERV-HI">ERV-HI</option>
+<option class="spacer" value="ERV-HI"> </option>
+<option class="lang" value="HLGN">—HIL—</option>
+<option value="HLGN">HLGN</option>
+<option class="spacer" value="HLGN"> </option>
+<option class="lang" value="HNZ-RI">—HR—</option>
+<option value="HNZ-RI">HNZ-RI</option>
+<option value="CRO">CRO</option>
+<option class="spacer" value="CRO"> </option>
+<option class="lang" value="HCV">—HT—</option>
+<option value="HCV">HCV</option>
+<option class="spacer" value="HCV"> </option>
+<option class="lang" value="KAR">—HU—</option>
+<option value="KAR">KAR</option>
+<option value="ERV-HU">ERV-HU</option>
+<option value="NT-HU">NT-HU</option>
+<option class="spacer" value="NT-HU"> </option>
+<option class="lang" value="HWP">—HWC—</option>
+<option value="HWP">HWP</option>
+<option class="spacer" value="HWP"> </option>
+<option class="lang" value="ICELAND">—IS—</option>
+<option value="ICELAND">ICELAND</option>
+<option class="spacer" value="ICELAND"> </option>
+<option class="lang" value="BDG">—IT—</option>
+<option value="BDG">BDG</option>
+<option value="CEI">CEI</option>
+<option value="LND">LND</option>
+<option value="NR1994">NR1994</option>
+<option value="NR2006">NR2006</option>
+<option class="spacer" value="NR2006"> </option>
+<option class="lang" value="JAC">—JAC—</option>
+<option value="JAC">JAC</option>
+<option class="spacer" value="JAC"> </option>
+<option class="lang" value="KEK">—KEK—</option>
+<option value="KEK">KEK</option>
+<option class="spacer" value="KEK"> </option>
+<option class="lang" value="VULGATE">—LA—</option>
+<option value="VULGATE">VULGATE</option>
+<option class="spacer" value="VULGATE"> </option>
+<option class="lang" value="MAORI">—MI—</option>
+<option value="MAORI">MAORI</option>
+<option class="spacer" value="MAORI"> </option>
+<option class="lang" value="MNT">—MK—</option>
+<option value="MNT">MNT</option>
+<option class="spacer" value="MNT"> </option>
+<option class="lang" value="ERV-MR">—MR—</option>
+<option value="ERV-MR">ERV-MR</option>
+<option class="spacer" value="ERV-MR"> </option>
+<option class="lang" value="MVC">—MVC—</option>
+<option value="MVC">MVC</option>
+<option class="spacer" value="MVC"> </option>
+<option class="lang" value="MVJ">—MVJ—</option>
+<option value="MVJ">MVJ</option>
+<option class="spacer" value="MVJ"> </option>
+<option class="lang" value="REIMER">—NDS—</option>
+<option value="REIMER">REIMER</option>
+<option class="spacer" value="REIMER"> </option>
+<option class="lang" value="ERV-NE">—NE—</option>
+<option value="ERV-NE">ERV-NE</option>
+<option class="spacer" value="ERV-NE"> </option>
+<option class="lang" value="NGU">—NGU—</option>
+<option value="NGU">NGU</option>
+<option class="spacer" value="NGU"> </option>
+<option class="lang" value="HTB">—NL—</option>
+<option value="HTB">HTB</option>
+<option class="spacer" value="HTB"> </option>
+<option class="lang" value="DNB1930">—NO—</option>
+<option value="DNB1930">DNB1930</option>
+<option value="LB">LB</option>
+<option class="spacer" value="LB"> </option>
+<option class="lang" value="ERV-OR">—OR—</option>
+<option value="ERV-OR">ERV-OR</option>
+<option class="spacer" value="ERV-OR"> </option>
+<option class="lang" value="ERV-PA">—PA—</option>
+<option value="ERV-PA">ERV-PA</option>
+<option class="spacer" value="ERV-PA"> </option>
+<option class="lang" value="NP">—PL—</option>
+<option value="NP">NP</option>
+<option value="SZ-PL">SZ-PL</option>
+<option value="UBG">UBG</option>
+<option class="spacer" value="UBG"> </option>
+<option class="lang" value="NBTN">—PPL—</option>
+<option value="NBTN">NBTN</option>
+<option class="spacer" value="NBTN"> </option>
+<option class="lang" value="ARC">—PT—</option>
+<option value="ARC">ARC</option>
+<option value="NTLH">NTLH</option>
+<option value="NVI-PT">NVI-PT</option>
+<option value="OL">OL</option>
+<option value="VFL">VFL</option>
+<option class="spacer" value="VFL"> </option>
+<option class="lang" value="MTDS">—QU—</option>
+<option value="MTDS">MTDS</option>
+<option class="spacer" value="MTDS"> </option>
+<option class="lang" value="QUT">—QUT—</option>
+<option value="QUT">QUT</option>
+<option class="spacer" value="QUT"> </option>
+<option class="lang" value="RMNN">—RO—</option>
+<option value="RMNN">RMNN</option>
+<option value="NTLR">NTLR</option>
+<option class="spacer" value="NTLR"> </option>
+<option class="lang" value="NRT">—RU—</option>
+<option value="NRT">NRT</option>
+<option value="CARS">CARS</option>
+<option value="CARST">CARST</option>
+<option value="CARSA">CARSA</option>
+<option value="ERV-RU">ERV-RU</option>
+<option value="RUSV">RUSV</option>
+<option class="spacer" value="RUSV"> </option>
+<option class="lang" value="NPK">—SK—</option>
+<option value="NPK">NPK</option>
+<option class="spacer" value="NPK"> </option>
+<option class="lang" value="SOM">—SO—</option>
+<option value="SOM">SOM</option>
+<option class="spacer" value="SOM"> </option>
+<option class="lang" value="ALB">—SQ—</option>
+<option value="ALB">ALB</option>
+<option class="spacer" value="ALB"> </option>
+<option class="lang" value="ERV-SR">—SR—</option>
+<option value="ERV-SR">ERV-SR</option>
+<option class="spacer" value="ERV-SR"> </option>
+<option class="lang" value="SVL">—SV—</option>
+<option value="SVL">SVL</option>
+<option value="SV1917">SV1917</option>
+<option value="SFB">SFB</option>
+<option value="SFB2014">SFB2014</option>
+<option class="spacer" value="SFB2014"> </option>
+<option class="lang" value="SNT">—SW—</option>
+<option value="SNT">SNT</option>
+<option class="spacer" value="SNT"> </option>
+<option class="lang" value="ERV-TA">—TA—</option>
+<option value="ERV-TA">ERV-TA</option>
+<option class="spacer" value="ERV-TA"> </option>
+<option class="lang" value="TNCV">—TH—</option>
+<option value="TNCV">TNCV</option>
+<option value="ERV-TH">ERV-TH</option>
+<option class="spacer" value="ERV-TH"> </option>
+<option class="lang" value="ADB1905">—TL—</option>
+<option value="ADB1905">ADB1905</option>
+<option value="SND">SND</option>
+<option class="spacer" value="SND"> </option>
+<option class="lang" value="NA-TWI">—TWI—</option>
+<option value="NA-TWI">NA-TWI</option>
+<option class="spacer" value="NA-TWI"> </option>
+<option class="lang" value="UKR">—UK—</option>
+<option value="UKR">UKR</option>
+<option value="ERV-UK">ERV-UK</option>
+<option class="spacer" value="ERV-UK"> </option>
+<option class="lang" value="ERV-UR">—UR—</option>
+<option value="ERV-UR">ERV-UR</option>
+<option class="spacer" value="ERV-UR"> </option>
+<option class="lang" value="USP">—USP—</option>
+<option value="USP">USP</option>
+<option class="spacer" value="USP"> </option>
+<option class="lang" value="VIET">—VI—</option>
+<option value="VIET">VIET</option>
+<option value="BD2011">BD2011</option>
+<option value="BPT">BPT</option>
+<option class="spacer" value="BPT"> </option>
+<option class="lang" value="CCB">—ZH—</option>
+<option value="CCB">CCB</option>
+<option value="ERV-ZH">ERV-ZH</option>
+<option value="CNVS">CNVS</option>
+<option value="CNVT">CNVT</option>
+<option value="CSBS">CSBS</option>
+<option value="CSBT">CSBT</option>
+<option value="CUVS">CUVS</option>
+<option value="CUV">CUV</option>
+<option value="CUVMPS">CUVMPS</option>
+<option value="CUVMPT">CUVMPT</option>
+</select>
+<select class="translation-dropdown" data-prefname="default_version"><option class="lang" value="AMU">—Amuzgo de Guerrero (AMU)—</option>
+<option value="AMU">Amuzgo de Guerrero (AMU)</option>
+<option class="spacer" value="AMU"> </option>
+<option class="lang" value="ERV-AR">—العربية (AR)—</option>
+<option value="ERV-AR">Arabic Bible: Easy-to-Read Version (ERV-AR)</option>
+<option value="NAV">Ketab El Hayat (NAV)</option>
+<option class="spacer" value="NAV"> </option>
+<option class="lang" value="ERV-AWA">—अवधी (AWA)—</option>
+<option value="ERV-AWA">Awadhi Bible: Easy-to-Read Version (ERV-AWA)</option>
+<option class="spacer" value="ERV-AWA"> </option>
+<option class="lang" value="BG1940">—Български (BG)—</option>
+<option value="BG1940">1940 Bulgarian Bible (BG1940)</option>
+<option value="BULG">Bulgarian Bible (BULG)</option>
+<option value="ERV-BG">Bulgarian New Testament: Easy-to-Read Version (ERV-BG)</option>
+<option value="BPB">Bulgarian Protestant Bible (BPB)</option>
+<option class="spacer" value="BPB"> </option>
+<option class="lang" value="CCO">—Chinanteco de Comaltepec (CCO)—</option>
+<option value="CCO">Chinanteco de Comaltepec (CCO)</option>
+<option class="spacer" value="CCO"> </option>
+<option class="lang" value="APSD-CEB">—Cebuano (CEB)—</option>
+<option value="APSD-CEB">Ang Pulong Sa Dios (APSD-CEB)</option>
+<option class="spacer" value="APSD-CEB"> </option>
+<option class="lang" value="CHR">—ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)—</option>
+<option value="CHR">Cherokee New Testament (CHR)</option>
+<option class="spacer" value="CHR"> </option>
+<option class="lang" value="CKW">—Cakchiquel Occidental (CKW)—</option>
+<option value="CKW">Cakchiquel Occidental (CKW)</option>
+<option class="spacer" value="CKW"> </option>
+<option class="lang" value="B21">—Čeština (CS)—</option>
+<option value="B21">Bible 21 (B21)</option>
+<option value="SNC">Slovo na cestu (SNC)</option>
+<option class="spacer" value="SNC"> </option>
+<option class="lang" value="BWM">—Cymraeg (CY)—</option>
+<option value="BWM">Beibl William Morgan (BWM)</option>
+<option class="spacer" value="BWM"> </option>
+<option class="lang" value="BPH">—Dansk (DA)—</option>
+<option value="BPH">Bibelen på hverdagsdansk (BPH)</option>
+<option value="DN1933">Dette er Biblen på dansk (DN1933)</option>
+<option class="spacer" value="DN1933"> </option>
+<option class="lang" value="HOF">—Deutsch (DE)—</option>
+<option value="HOF">Hoffnung für Alle (HOF)</option>
+<option value="LUTH1545">Luther Bibel 1545 (LUTH1545)</option>
+<option value="NGU-DE">Neue Genfer Übersetzung (NGU-DE)</option>
+<option value="SCH1951">Schlachter 1951 (SCH1951)</option>
+<option value="SCH2000">Schlachter 2000 (SCH2000)</option>
+<option class="spacer" value="SCH2000"> </option>
+<option class="lang" value="KJ21">—English (EN)—</option>
+<option value="KJ21">21st Century King James Version (KJ21)</option>
+<option value="ASV">American Standard Version (ASV)</option>
+<option value="AMP">Amplified Bible (AMP)</option>
+<option value="AMPC">Amplified Bible, Classic Edition (AMPC)</option>
+<option value="BRG">BRG Bible (BRG)</option>
+<option value="CEB">Common English Bible (CEB)</option>
+<option value="CJB">Complete Jewish Bible (CJB)</option>
+<option value="CEV">Contemporary English Version (CEV)</option>
+<option value="DARBY">Darby Translation (DARBY)</option>
+<option value="DLNT">Disciples’ Literal New Testament (DLNT)</option>
+<option value="DRA">Douay-Rheims 1899 American Edition (DRA)</option>
+<option value="ERV">Easy-to-Read Version (ERV)</option>
+<option value="ESV">English Standard Version (ESV)</option>
+<option value="ESVUK">English Standard Version Anglicised (ESVUK)</option>
+<option value="EXB">Expanded Bible (EXB)</option>
+<option value="GNV">1599 Geneva Bible (GNV)</option>
+<option value="GW">GOD’S WORD Translation (GW)</option>
+<option value="GNT">Good News Translation (GNT)</option>
+<option value="HCSB">Holman Christian Standard Bible (HCSB)</option>
+<option value="ICB">International Children’s Bible (ICB)</option>
+<option value="ISV">International Standard Version (ISV)</option>
+<option value="PHILLIPS">J.B. Phillips New Testament (PHILLIPS)</option>
+<option value="JUB">Jubilee Bible 2000 (JUB)</option>
+<option value="KJV">King James Version (KJV)</option>
+<option value="AKJV">Authorized (King James) Version (AKJV)</option>
+<option value="LEB">Lexham English Bible (LEB)</option>
+<option value="TLB">Living Bible (TLB)</option>
+<option value="MSG">The Message (MSG)</option>
+<option value="MEV">Modern English Version (MEV)</option>
+<option value="MOUNCE">Mounce Reverse-Interlinear New Testament (MOUNCE)</option>
+<option value="NOG">Names of God Bible (NOG)</option>
+<option value="NABRE">New American Bible (Revised Edition) (NABRE)</option>
+<option value="NASB">New American Standard Bible (NASB)</option>
+<option value="NCV">New Century Version (NCV)</option>
+<option value="NET">New English Translation (NET Bible)</option>
+<option value="NIRV">New International Reader's Version (NIRV)</option>
+<option selected="selected" value="NIV">New International Version (NIV)</option>
+<option value="NIVUK">New International Version - UK (NIVUK)</option>
+<option value="NKJV">New King James Version (NKJV)</option>
+<option value="NLV">New Life Version (NLV)</option>
+<option value="NLT">New Living Translation (NLT)</option>
+<option value="NRSV">New Revised Standard Version (NRSV)</option>
+<option value="NRSVA">New Revised Standard Version, Anglicised (NRSVA)</option>
+<option value="NRSVACE">New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)</option>
+<option value="NRSVCE">New Revised Standard Version Catholic Edition (NRSVCE)</option>
+<option value="OJB">Orthodox Jewish Bible (OJB)</option>
+<option value="RSV">Revised Standard Version (RSV)</option>
+<option value="RSVCE">Revised Standard Version Catholic Edition (RSVCE)</option>
+<option value="VOICE">The Voice (VOICE)</option>
+<option value="WEB">World English Bible (WEB)</option>
+<option value="WE">Worldwide English (New Testament) (WE)</option>
+<option value="WYC">Wycliffe Bible (WYC)</option>
+<option value="YLT">Young's Literal Translation (YLT)</option>
+<option class="spacer" value="YLT"> </option>
+<option class="lang" value="LBLA">—Español (ES)—</option>
+<option value="LBLA">La Biblia de las Américas (LBLA)</option>
+<option value="DHH">Dios Habla Hoy (DHH)</option>
+<option value="JBS">Jubilee Bible 2000 (Spanish) (JBS)</option>
+<option value="NBD">Nueva Biblia al Día (NBD)</option>
+<option value="NBLH">Nueva Biblia Latinoamericana de Hoy (NBLH)</option>
+<option value="NTV">Nueva Traducción Viviente (NTV)</option>
+<option value="NVI">Nueva Versión Internacional (NVI)</option>
+<option value="CST">Nueva Versión Internacional (Castilian) (CST)</option>
+<option value="PDT">Palabra de Dios para Todos (PDT)</option>
+<option value="BLP">La Palabra (España) (BLP)</option>
+<option value="BLPH">La Palabra (Hispanoamérica) (BLPH)</option>
+<option value="RVC">Reina Valera Contemporánea (RVC)</option>
+<option value="RVR1960">Reina-Valera 1960 (RVR1960)</option>
+<option value="RVR1977">Reina Valera 1977 (RVR1977)</option>
+<option value="RVR1995">Reina-Valera 1995 (RVR1995)</option>
+<option value="RVA">Reina-Valera Antigua (RVA)</option>
+<option value="TLA">Traducción en lenguaje actual (TLA)</option>
+<option class="spacer" value="TLA"> </option>
+<option class="lang" value="R1933">—Suomi (FI)—</option>
+<option value="R1933">Raamattu 1933/38 (R1933)</option>
+<option class="spacer" value="R1933"> </option>
+<option class="lang" value="BDS">—Français (FR)—</option>
+<option value="BDS">La Bible du Semeur (BDS)</option>
+<option value="LSG">Louis Segond (LSG)</option>
+<option value="NEG1979">Nouvelle Edition de Genève – NEG1979 (NEG1979)</option>
+<option value="SG21">Segond 21 (SG21)</option>
+<option class="spacer" value="SG21"> </option>
+<option class="lang" value="TR1550">—Κοινη (GRC)—</option>
+<option value="TR1550">1550 Stephanus New Testament (TR1550)</option>
+<option value="WHNU">1881 Westcott-Hort New Testament (WHNU)</option>
+<option value="TR1894">1894 Scrivener New Testament (TR1894)</option>
+<option value="SBLGNT">SBL Greek New Testament (SBLGNT)</option>
+<option class="spacer" value="SBLGNT"> </option>
+<option class="lang" value="HHH">—עברית (HE)—</option>
+<option value="HHH">Habrit Hakhadasha/Haderekh (HHH)</option>
+<option value="WLC">The Westminster Leningrad Codex (WLC)</option>
+<option class="spacer" value="WLC"> </option>
+<option class="lang" value="ERV-HI">—हिन्दी (HI)—</option>
+<option value="ERV-HI">Hindi Bible: Easy-to-Read Version (ERV-HI)</option>
+<option class="spacer" value="ERV-HI"> </option>
+<option class="lang" value="HLGN">—Ilonggo (HIL)—</option>
+<option value="HLGN">Ang Pulong Sang Dios (HLGN)</option>
+<option class="spacer" value="HLGN"> </option>
+<option class="lang" value="HNZ-RI">—Hrvatski (HR)—</option>
+<option value="HNZ-RI">Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI)</option>
+<option value="CRO">Knijga O Kristu (CRO)</option>
+<option class="spacer" value="CRO"> </option>
+<option class="lang" value="HCV">—Kreyòl ayisyen (HT)—</option>
+<option value="HCV">Haitian Creole Version (HCV)</option>
+<option class="spacer" value="HCV"> </option>
+<option class="lang" value="KAR">—Magyar (HU)—</option>
+<option value="KAR">Hungarian Károli (KAR)</option>
+<option value="ERV-HU">Hungarian Bible: Easy-to-Read Version (ERV-HU)</option>
+<option value="NT-HU">Hungarian New Translation (NT-HU)</option>
+<option class="spacer" value="NT-HU"> </option>
+<option class="lang" value="HWP">—Hawai‘i Pidgin (HWC)—</option>
+<option value="HWP">Hawai‘i Pidgin (HWP)</option>
+<option class="spacer" value="HWP"> </option>
+<option class="lang" value="ICELAND">—Íslenska (IS)—</option>
+<option value="ICELAND">Icelandic Bible (ICELAND)</option>
+<option class="spacer" value="ICELAND"> </option>
+<option class="lang" value="BDG">—Italiano (IT)—</option>
+<option value="BDG">La Bibbia della Gioia (BDG)</option>
+<option value="CEI">Conferenza Episcopale Italiana (CEI)</option>
+<option value="LND">La Nuova Diodati (LND)</option>
+<option value="NR1994">Nuova Riveduta 1994 (NR1994)</option>
+<option value="NR2006">Nuova Riveduta 2006 (NR2006)</option>
+<option class="spacer" value="NR2006"> </option>
+<option class="lang" value="JAC">—Jacalteco, Oriental (JAC)—</option>
+<option value="JAC">Jacalteco, Oriental (JAC)</option>
+<option class="spacer" value="JAC"> </option>
+<option class="lang" value="KEK">—Kekchi (KEK)—</option>
+<option value="KEK">Kekchi (KEK)</option>
+<option class="spacer" value="KEK"> </option>
+<option class="lang" value="VULGATE">—Latina (LA)—</option>
+<option value="VULGATE">Biblia Sacra Vulgata (VULGATE)</option>
+<option class="spacer" value="VULGATE"> </option>
+<option class="lang" value="MAORI">—Māori (MI)—</option>
+<option value="MAORI">Maori Bible (MAORI)</option>
+<option class="spacer" value="MAORI"> </option>
+<option class="lang" value="MNT">—Македонски (MK)—</option>
+<option value="MNT">Macedonian New Testament (MNT)</option>
+<option class="spacer" value="MNT"> </option>
+<option class="lang" value="ERV-MR">—मराठी (MR)—</option>
+<option value="ERV-MR">Marathi Bible: Easy-to-Read Version (ERV-MR)</option>
+<option class="spacer" value="ERV-MR"> </option>
+<option class="lang" value="MVC">—Mam, Central (MVC)—</option>
+<option value="MVC">Mam, Central (MVC)</option>
+<option class="spacer" value="MVC"> </option>
+<option class="lang" value="MVJ">—Mam, Todos Santos (MVJ)—</option>
+<option value="MVJ">Mam de Todos Santos Chuchumatán (MVJ)</option>
+<option class="spacer" value="MVJ"> </option>
+<option class="lang" value="REIMER">—Plautdietsch (NDS)—</option>
+<option value="REIMER">Reimer 2001 (REIMER)</option>
+<option class="spacer" value="REIMER"> </option>
+<option class="lang" value="ERV-NE">—नेपाली (NE)—</option>
+<option value="ERV-NE">Nepali Bible: Easy-to-Read Version (ERV-NE)</option>
+<option class="spacer" value="ERV-NE"> </option>
+<option class="lang" value="NGU">—Náhuatl de Guerrero (NGU)—</option>
+<option value="NGU">Náhuatl de Guerrero (NGU)</option>
+<option class="spacer" value="NGU"> </option>
+<option class="lang" value="HTB">—Nederlands (NL)—</option>
+<option value="HTB">Het Boek (HTB)</option>
+<option class="spacer" value="HTB"> </option>
+<option class="lang" value="DNB1930">—Norsk (NO)—</option>
+<option value="DNB1930">Det Norsk Bibelselskap 1930 (DNB1930)</option>
+<option value="LB">En Levende Bok (LB)</option>
+<option class="spacer" value="LB"> </option>
+<option class="lang" value="ERV-OR">—ଓଡ଼ିଆ (OR)—</option>
+<option value="ERV-OR">Oriya Bible: Easy-to-Read Version (ERV-OR)</option>
+<option class="spacer" value="ERV-OR"> </option>
+<option class="lang" value="ERV-PA">—ਪੰਜਾਬੀ (PA)—</option>
+<option value="ERV-PA">Punjabi Bible: Easy-to-Read Version (ERV-PA)</option>
+<option class="spacer" value="ERV-PA"> </option>
+<option class="lang" value="NP">—Polski (PL)—</option>
+<option value="NP">Nowe Przymierze (NP)</option>
+<option value="SZ-PL">Słowo Życia (SZ-PL)</option>
+<option value="UBG">Updated Gdańsk Bible (UBG)</option>
+<option class="spacer" value="UBG"> </option>
+<option class="lang" value="NBTN">—Nawat (PPL)—</option>
+<option value="NBTN">Ne Bibliaj Tik Nawat (NBTN)</option>
+<option class="spacer" value="NBTN"> </option>
+<option class="lang" value="ARC">—Português (PT)—</option>
+<option value="ARC">Almeida Revista e Corrigida 2009 (ARC)</option>
+<option value="NTLH">Nova Traduҫão na Linguagem de Hoje 2000 (NTLH)</option>
+<option value="NVI-PT">Nova Versão Internacional (NVI-PT)</option>
+<option value="OL">O Livro (OL)</option>
+<option value="VFL">Portuguese New Testament: Easy-to-Read Version (VFL)</option>
+<option class="spacer" value="VFL"> </option>
+<option class="lang" value="MTDS">—Quichua (QU)—</option>
+<option value="MTDS">Mushuj Testamento Diospaj Shimi (MTDS)</option>
+<option class="spacer" value="MTDS"> </option>
+<option class="lang" value="QUT">—Quiché, Centro Occidenta (QUT)—</option>
+<option value="QUT">Quiché, Centro Occidental (QUT)</option>
+<option class="spacer" value="QUT"> </option>
+<option class="lang" value="RMNN">—Română (RO)—</option>
+<option value="RMNN">Cornilescu 1924 - Revised 2010, 2014 (RMNN)</option>
+<option value="NTLR">Nouă Traducere În Limba Română (NTLR)</option>
+<option class="spacer" value="NTLR"> </option>
+<option class="lang" value="NRT">—Русский (RU)—</option>
+<option value="NRT">New Russian Translation (NRT)</option>
+<option value="CARS">Священное Писание (Восточный Перевод) (CARS)</option>
+<option value="CARST">Священное Писание (Восточный перевод), версия для Таджикистана (CARST)</option>
+<option value="CARSA">Священное Писание (Восточный перевод), версия с «Аллахом» (CARSA)</option>
+<option value="ERV-RU">Russian New Testament: Easy-to-Read Version (ERV-RU)</option>
+<option value="RUSV">Russian Synodal Version (RUSV)</option>
+<option class="spacer" value="RUSV"> </option>
+<option class="lang" value="NPK">—Slovenčina (SK)—</option>
+<option value="NPK">Nádej pre kazdého (NPK)</option>
+<option class="spacer" value="NPK"> </option>
+<option class="lang" value="SOM">—Somali (SO)—</option>
+<option value="SOM">Somali Bible (SOM)</option>
+<option class="spacer" value="SOM"> </option>
+<option class="lang" value="ALB">—Shqip (SQ)—</option>
+<option value="ALB">Albanian Bible (ALB)</option>
+<option class="spacer" value="ALB"> </option>
+<option class="lang" value="ERV-SR">—Српски (SR)—</option>
+<option value="ERV-SR">Serbian New Testament: Easy-to-Read Version (ERV-SR)</option>
+<option class="spacer" value="ERV-SR"> </option>
+<option class="lang" value="SVL">—Svenska (SV)—</option>
+<option value="SVL">Nya Levande Bibeln (SVL)</option>
+<option value="SV1917">Svenska 1917 (SV1917)</option>
+<option value="SFB">Svenska Folkbibeln (SFB)</option>
+<option value="SFB2014">Svenska Folkbibeln 2014 (SFB2014)</option>
+<option class="spacer" value="SFB2014"> </option>
+<option class="lang" value="SNT">—Kiswahili (SW)—</option>
+<option value="SNT">Neno: Bibilia Takatifu (SNT)</option>
+<option class="spacer" value="SNT"> </option>
+<option class="lang" value="ERV-TA">—தமிழ் (TA)—</option>
+<option value="ERV-TA">Tamil Bible: Easy-to-Read Version (ERV-TA)</option>
+<option class="spacer" value="ERV-TA"> </option>
+<option class="lang" value="TNCV">—ภาษาไทย (TH)—</option>
+<option value="TNCV">Thai New Contemporary Bible (TNCV)</option>
+<option value="ERV-TH">Thai New Testament: Easy-to-Read Version (ERV-TH)</option>
+<option class="spacer" value="ERV-TH"> </option>
+<option class="lang" value="ADB1905">—Tagalog (TL)—</option>
+<option value="ADB1905">Ang Dating Biblia (1905) (ADB1905)</option>
+<option value="SND">Ang Salita ng Diyos (SND)</option>
+<option class="spacer" value="SND"> </option>
+<option class="lang" value="NA-TWI">—Twi (TWI)—</option>
+<option value="NA-TWI">Nkwa Asem (NA-TWI)</option>
+<option class="spacer" value="NA-TWI"> </option>
+<option class="lang" value="UKR">—Українська (UK)—</option>
+<option value="UKR">Ukrainian Bible (UKR)</option>
+<option value="ERV-UK">Ukrainian New Testament: Easy-to-Read Version (ERV-UK)</option>
+<option class="spacer" value="ERV-UK"> </option>
+<option class="lang" value="ERV-UR">—اردو (UR)—</option>
+<option value="ERV-UR">Urdu Bible: Easy-to-Read Version (ERV-UR)</option>
+<option class="spacer" value="ERV-UR"> </option>
+<option class="lang" value="USP">—Uspanteco (USP)—</option>
+<option value="USP">Uspanteco (USP)</option>
+<option class="spacer" value="USP"> </option>
+<option class="lang" value="VIET">—Tiêng Viêt (VI)—</option>
+<option value="VIET">1934 Vietnamese Bible (VIET)</option>
+<option value="BD2011">Bản Dịch 2011 (BD2011)</option>
+<option value="BPT">Vietnamese Bible: Easy-to-Read Version (BPT)</option>
+<option class="spacer" value="BPT"> </option>
+<option class="lang" value="CCB">—汉语 (ZH)—</option>
+<option value="CCB">Chinese Contemporary Bible (CCB)</option>
+<option value="ERV-ZH">Chinese New Testament: Easy-to-Read Version (ERV-ZH)</option>
+<option value="CNVS">Chinese New Version (Simplified) (CNVS)</option>
+<option value="CNVT">Chinese New Version (Traditional) (CNVT)</option>
+<option value="CSBS">Chinese Standard Bible (Simplified) (CSBS)</option>
+<option value="CSBT">Chinese Standard Bible (Traditional) (CSBT)</option>
+<option value="CUVS">Chinese Union Version (Simplified) (CUVS)</option>
+<option value="CUV">Chinese Union Version (Traditional) (CUV)</option>
+<option value="CUVMPS">Chinese Union Version Modern Punctuation (Simplified) (CUVMPS)</option>
+<option value="CUVMPT">Chinese Union Version Modern Punctuation (Traditional) (CUVMPT)</option>
+</select>
+</div>
+<span class="passage-options">
+<span class="active icon-share2 passage-tools-icon js-passage-share-link" data-osis="Jude.1.1-Jude.1.25" data-passage="Jude" data-version="NIV" title="Share"></span><a class="passage-tools-icon icon-print" href="/passage/?search=Jude1%3A1-3%3A2&amp;version=NIV&amp;interface=print" title="Print"></a><span class="active icon-gear passage-tools-icon js-passage-options-link" title="Page Options"></span><a class="parallel" href="/passage/?search=Jude1%3A1-3%3A2&amp;version=NIV;KJV" rel="nofollow" title="Add parallel"><span class="icon-parallel"></span></a><a class="icon-audio passage-audio" href="/audio/mclean/niv/Jude.1.1-Jude.1.25" title="Listen to Jude"></a></span>
+</div>
+<div class="passage-text"><div class="passage-wrap"><div class="passage-content passage-class-0"><div class="version-NIV result-text-style-normal text-html ">
+<h1 class="passage-display"> <span class="passage-display-bcv">Jude</span><span class="passage-display-version">New International Version (NIV)</span></h1> <p><span class="text Jude-1-1" id="en-NIV-30674"><sup class="versenum">1 </sup>Jude,<sup class="crossreference" data-cr="#cen-NIV-30674A" data-link='(&lt;a href="#cen-NIV-30674A" title="See cross-reference A"&gt;A&lt;/a&gt;)'></sup> a servant of Jesus Christ<sup class="crossreference" data-cr="#cen-NIV-30674B" data-link='(&lt;a href="#cen-NIV-30674B" title="See cross-reference B"&gt;B&lt;/a&gt;)'></sup> and a brother of James,</span></p><p class="top-05"><span class="text Jude-1-1">To those who have been called,<sup class="crossreference" data-cr="#cen-NIV-30674C" data-link='(&lt;a href="#cen-NIV-30674C" title="See cross-reference C"&gt;C&lt;/a&gt;)'></sup> who are loved in God the Father and kept for<sup class="footnote" data-fn="#fen-NIV-30674a" data-link='[&lt;a href="#fen-NIV-30674a" title="See footnote a"&gt;a&lt;/a&gt;]'>[<a href="#fen-NIV-30674a" title="See footnote a">a</a>]</sup> Jesus Christ:<sup class="crossreference" data-cr="#cen-NIV-30674D" data-link='(&lt;a href="#cen-NIV-30674D" title="See cross-reference D"&gt;D&lt;/a&gt;)'></sup></span></p> <p class="top-05"><span class="text Jude-1-2" id="en-NIV-30675"><sup class="versenum">2 </sup>Mercy, peace<sup class="crossreference" data-cr="#cen-NIV-30675E" data-link='(&lt;a href="#cen-NIV-30675E" title="See cross-reference E"&gt;E&lt;/a&gt;)'></sup> and love be yours in abundance.<sup class="crossreference" data-cr="#cen-NIV-30675F" data-link='(&lt;a href="#cen-NIV-30675F" title="See cross-reference F"&gt;F&lt;/a&gt;)'></sup></span></p> <h3><span class="text Jude-1-3" id="en-NIV-30676">The Sin and Doom of Ungodly People</span></h3><p><span class="text Jude-1-3"><sup class="versenum">3 </sup>Dear friends,<sup class="crossreference" data-cr="#cen-NIV-30676G" data-link='(&lt;a href="#cen-NIV-30676G" title="See cross-reference G"&gt;G&lt;/a&gt;)'></sup> although I was very eager to write to you about the salvation we share,<sup class="crossreference" data-cr="#cen-NIV-30676H" data-link='(&lt;a href="#cen-NIV-30676H" title="See cross-reference H"&gt;H&lt;/a&gt;)'></sup> I felt compelled to write and urge you to contend<sup class="crossreference" data-cr="#cen-NIV-30676I" data-link='(&lt;a href="#cen-NIV-30676I" title="See cross-reference I"&gt;I&lt;/a&gt;)'></sup> for the faith<sup class="crossreference" data-cr="#cen-NIV-30676J" data-link='(&lt;a href="#cen-NIV-30676J" title="See cross-reference J"&gt;J&lt;/a&gt;)'></sup> that was once for all entrusted to God’s holy people.<sup class="crossreference" data-cr="#cen-NIV-30676K" data-link='(&lt;a href="#cen-NIV-30676K" title="See cross-reference K"&gt;K&lt;/a&gt;)'></sup></span> <span class="text Jude-1-4" id="en-NIV-30677"><sup class="versenum">4 </sup>For certain individuals whose condemnation was written about<sup class="footnote" data-fn="#fen-NIV-30677b" data-link='[&lt;a href="#fen-NIV-30677b" title="See footnote b"&gt;b&lt;/a&gt;]'>[<a href="#fen-NIV-30677b" title="See footnote b">b</a>]</sup> long ago have secretly slipped in among you.<sup class="crossreference" data-cr="#cen-NIV-30677L" data-link='(&lt;a href="#cen-NIV-30677L" title="See cross-reference L"&gt;L&lt;/a&gt;)'></sup> They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.<sup class="crossreference" data-cr="#cen-NIV-30677M" data-link='(&lt;a href="#cen-NIV-30677M" title="See cross-reference M"&gt;M&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-5" id="en-NIV-30678"><sup class="versenum">5 </sup>Though you already know all this,<sup class="crossreference" data-cr="#cen-NIV-30678N" data-link='(&lt;a href="#cen-NIV-30678N" title="See cross-reference N"&gt;N&lt;/a&gt;)'></sup> I want to remind you<sup class="crossreference" data-cr="#cen-NIV-30678O" data-link='(&lt;a href="#cen-NIV-30678O" title="See cross-reference O"&gt;O&lt;/a&gt;)'></sup> that the Lord<sup class="footnote" data-fn="#fen-NIV-30678c" data-link='[&lt;a href="#fen-NIV-30678c" title="See footnote c"&gt;c&lt;/a&gt;]'>[<a href="#fen-NIV-30678c" title="See footnote c">c</a>]</sup> at one time delivered his people out of Egypt, but later destroyed those who did not believe.<sup class="crossreference" data-cr="#cen-NIV-30678P" data-link='(&lt;a href="#cen-NIV-30678P" title="See cross-reference P"&gt;P&lt;/a&gt;)'></sup></span> <span class="text Jude-1-6" id="en-NIV-30679"><sup class="versenum">6 </sup>And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day.<sup class="crossreference" data-cr="#cen-NIV-30679Q" data-link='(&lt;a href="#cen-NIV-30679Q" title="See cross-reference Q"&gt;Q&lt;/a&gt;)'></sup></span> <span class="text Jude-1-7" id="en-NIV-30680"><sup class="versenum">7 </sup>In a similar way, Sodom and Gomorrah<sup class="crossreference" data-cr="#cen-NIV-30680R" data-link='(&lt;a href="#cen-NIV-30680R" title="See cross-reference R"&gt;R&lt;/a&gt;)'></sup> and the surrounding towns<sup class="crossreference" data-cr="#cen-NIV-30680S" data-link='(&lt;a href="#cen-NIV-30680S" title="See cross-reference S"&gt;S&lt;/a&gt;)'></sup> gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.<sup class="crossreference" data-cr="#cen-NIV-30680T" data-link='(&lt;a href="#cen-NIV-30680T" title="See cross-reference T"&gt;T&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-8" id="en-NIV-30681"><sup class="versenum">8 </sup>In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings.<sup class="crossreference" data-cr="#cen-NIV-30681U" data-link='(&lt;a href="#cen-NIV-30681U" title="See cross-reference U"&gt;U&lt;/a&gt;)'></sup></span> <span class="text Jude-1-9" id="en-NIV-30682"><sup class="versenum">9 </sup>But even the archangel<sup class="crossreference" data-cr="#cen-NIV-30682V" data-link='(&lt;a href="#cen-NIV-30682V" title="See cross-reference V"&gt;V&lt;/a&gt;)'></sup> Michael,<sup class="crossreference" data-cr="#cen-NIV-30682W" data-link='(&lt;a href="#cen-NIV-30682W" title="See cross-reference W"&gt;W&lt;/a&gt;)'></sup> when he was disputing with the devil about the body of Moses,<sup class="crossreference" data-cr="#cen-NIV-30682X" data-link='(&lt;a href="#cen-NIV-30682X" title="See cross-reference X"&gt;X&lt;/a&gt;)'></sup> did not himself dare to condemn him for slander but said, “The Lord rebuke you!”<sup class="footnote" data-fn="#fen-NIV-30682d" data-link='[&lt;a href="#fen-NIV-30682d" title="See footnote d"&gt;d&lt;/a&gt;]'>[<a href="#fen-NIV-30682d" title="See footnote d">d</a>]</sup><sup class="crossreference" data-cr="#cen-NIV-30682Y" data-link='(&lt;a href="#cen-NIV-30682Y" title="See cross-reference Y"&gt;Y&lt;/a&gt;)'></sup></span> <span class="text Jude-1-10" id="en-NIV-30683"><sup class="versenum">10 </sup>Yet these people slander whatever they do not understand, and the very things they do understand by instinct—as irrational animals do—will destroy them.<sup class="crossreference" data-cr="#cen-NIV-30683Z" data-link='(&lt;a href="#cen-NIV-30683Z" title="See cross-reference Z"&gt;Z&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-11" id="en-NIV-30684"><sup class="versenum">11 </sup>Woe to them! They have taken the way of Cain;<sup class="crossreference" data-cr="#cen-NIV-30684AA" data-link='(&lt;a href="#cen-NIV-30684AA" title="See cross-reference AA"&gt;AA&lt;/a&gt;)'></sup> they have rushed for profit into Balaam’s error;<sup class="crossreference" data-cr="#cen-NIV-30684AB" data-link='(&lt;a href="#cen-NIV-30684AB" title="See cross-reference AB"&gt;AB&lt;/a&gt;)'></sup> they have been destroyed in Korah’s rebellion.<sup class="crossreference" data-cr="#cen-NIV-30684AC" data-link='(&lt;a href="#cen-NIV-30684AC" title="See cross-reference AC"&gt;AC&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-12" id="en-NIV-30685"><sup class="versenum">12 </sup>These people are blemishes at your love feasts,<sup class="crossreference" data-cr="#cen-NIV-30685AD" data-link='(&lt;a href="#cen-NIV-30685AD" title="See cross-reference AD"&gt;AD&lt;/a&gt;)'></sup> eating with you without the slightest qualm—shepherds who feed only themselves.<sup class="crossreference" data-cr="#cen-NIV-30685AE" data-link='(&lt;a href="#cen-NIV-30685AE" title="See cross-reference AE"&gt;AE&lt;/a&gt;)'></sup> They are clouds without rain,<sup class="crossreference" data-cr="#cen-NIV-30685AF" data-link='(&lt;a href="#cen-NIV-30685AF" title="See cross-reference AF"&gt;AF&lt;/a&gt;)'></sup> blown along by the wind;<sup class="crossreference" data-cr="#cen-NIV-30685AG" data-link='(&lt;a href="#cen-NIV-30685AG" title="See cross-reference AG"&gt;AG&lt;/a&gt;)'></sup> autumn trees, without fruit and uprooted<sup class="crossreference" data-cr="#cen-NIV-30685AH" data-link='(&lt;a href="#cen-NIV-30685AH" title="See cross-reference AH"&gt;AH&lt;/a&gt;)'></sup>—twice dead.</span> <span class="text Jude-1-13" id="en-NIV-30686"><sup class="versenum">13 </sup>They are wild waves of the sea,<sup class="crossreference" data-cr="#cen-NIV-30686AI" data-link='(&lt;a href="#cen-NIV-30686AI" title="See cross-reference AI"&gt;AI&lt;/a&gt;)'></sup> foaming up their shame;<sup class="crossreference" data-cr="#cen-NIV-30686AJ" data-link='(&lt;a href="#cen-NIV-30686AJ" title="See cross-reference AJ"&gt;AJ&lt;/a&gt;)'></sup> wandering stars, for whom blackest darkness has been reserved forever.<sup class="crossreference" data-cr="#cen-NIV-30686AK" data-link='(&lt;a href="#cen-NIV-30686AK" title="See cross-reference AK"&gt;AK&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-14" id="en-NIV-30687"><sup class="versenum">14 </sup>Enoch,<sup class="crossreference" data-cr="#cen-NIV-30687AL" data-link='(&lt;a href="#cen-NIV-30687AL" title="See cross-reference AL"&gt;AL&lt;/a&gt;)'></sup> the seventh from Adam, prophesied about them: “See, the Lord is coming<sup class="crossreference" data-cr="#cen-NIV-30687AM" data-link='(&lt;a href="#cen-NIV-30687AM" title="See cross-reference AM"&gt;AM&lt;/a&gt;)'></sup> with thousands upon thousands of his holy ones<sup class="crossreference" data-cr="#cen-NIV-30687AN" data-link='(&lt;a href="#cen-NIV-30687AN" title="See cross-reference AN"&gt;AN&lt;/a&gt;)'></sup></span> <span class="text Jude-1-15" id="en-NIV-30688"><sup class="versenum">15 </sup>to judge<sup class="crossreference" data-cr="#cen-NIV-30688AO" data-link='(&lt;a href="#cen-NIV-30688AO" title="See cross-reference AO"&gt;AO&lt;/a&gt;)'></sup> everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.”<sup class="footnote" data-fn="#fen-NIV-30688e" data-link='[&lt;a href="#fen-NIV-30688e" title="See footnote e"&gt;e&lt;/a&gt;]'>[<a href="#fen-NIV-30688e" title="See footnote e">e</a>]</sup><sup class="crossreference" data-cr="#cen-NIV-30688AP" data-link='(&lt;a href="#cen-NIV-30688AP" title="See cross-reference AP"&gt;AP&lt;/a&gt;)'></sup></span> <span class="text Jude-1-16" id="en-NIV-30689"><sup class="versenum">16 </sup>These people are grumblers<sup class="crossreference" data-cr="#cen-NIV-30689AQ" data-link='(&lt;a href="#cen-NIV-30689AQ" title="See cross-reference AQ"&gt;AQ&lt;/a&gt;)'></sup> and faultfinders; they follow their own evil desires;<sup class="crossreference" data-cr="#cen-NIV-30689AR" data-link='(&lt;a href="#cen-NIV-30689AR" title="See cross-reference AR"&gt;AR&lt;/a&gt;)'></sup> they boast<sup class="crossreference" data-cr="#cen-NIV-30689AS" data-link='(&lt;a href="#cen-NIV-30689AS" title="See cross-reference AS"&gt;AS&lt;/a&gt;)'></sup> about themselves and flatter others for their own advantage.</span></p> <h3><span class="text Jude-1-17" id="en-NIV-30690">A Call to Persevere</span></h3><p><span class="text Jude-1-17"><sup class="versenum">17 </sup>But, dear friends, remember what the apostles<sup class="crossreference" data-cr="#cen-NIV-30690AT" data-link='(&lt;a href="#cen-NIV-30690AT" title="See cross-reference AT"&gt;AT&lt;/a&gt;)'></sup> of our Lord Jesus Christ foretold.<sup class="crossreference" data-cr="#cen-NIV-30690AU" data-link='(&lt;a href="#cen-NIV-30690AU" title="See cross-reference AU"&gt;AU&lt;/a&gt;)'></sup></span> <span class="text Jude-1-18" id="en-NIV-30691"><sup class="versenum">18 </sup>They said to you, “In the last times<sup class="crossreference" data-cr="#cen-NIV-30691AV" data-link='(&lt;a href="#cen-NIV-30691AV" title="See cross-reference AV"&gt;AV&lt;/a&gt;)'></sup> there will be scoffers who will follow their own ungodly desires.”<sup class="crossreference" data-cr="#cen-NIV-30691AW" data-link='(&lt;a href="#cen-NIV-30691AW" title="See cross-reference AW"&gt;AW&lt;/a&gt;)'></sup></span> <span class="text Jude-1-19" id="en-NIV-30692"><sup class="versenum">19 </sup>These are the people who divide you, who follow mere natural instincts and do not have the Spirit.<sup class="crossreference" data-cr="#cen-NIV-30692AX" data-link='(&lt;a href="#cen-NIV-30692AX" title="See cross-reference AX"&gt;AX&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-20" id="en-NIV-30693"><sup class="versenum">20 </sup>But you, dear friends, by building yourselves up<sup class="crossreference" data-cr="#cen-NIV-30693AY" data-link='(&lt;a href="#cen-NIV-30693AY" title="See cross-reference AY"&gt;AY&lt;/a&gt;)'></sup> in your most holy faith<sup class="crossreference" data-cr="#cen-NIV-30693AZ" data-link='(&lt;a href="#cen-NIV-30693AZ" title="See cross-reference AZ"&gt;AZ&lt;/a&gt;)'></sup> and praying in the Holy Spirit,<sup class="crossreference" data-cr="#cen-NIV-30693BA" data-link='(&lt;a href="#cen-NIV-30693BA" title="See cross-reference BA"&gt;BA&lt;/a&gt;)'></sup></span> <span class="text Jude-1-21" id="en-NIV-30694"><sup class="versenum">21 </sup>keep yourselves in God’s love as you wait<sup class="crossreference" data-cr="#cen-NIV-30694BB" data-link='(&lt;a href="#cen-NIV-30694BB" title="See cross-reference BB"&gt;BB&lt;/a&gt;)'></sup> for the mercy of our Lord Jesus Christ to bring you to eternal life.<sup class="crossreference" data-cr="#cen-NIV-30694BC" data-link='(&lt;a href="#cen-NIV-30694BC" title="See cross-reference BC"&gt;BC&lt;/a&gt;)'></sup></span></p> <p><span class="text Jude-1-22" id="en-NIV-30695"><sup class="versenum">22 </sup>Be merciful to those who doubt;</span> <span class="text Jude-1-23" id="en-NIV-30696"><sup class="versenum">23 </sup>save others by snatching them from the fire;<sup class="crossreference" data-cr="#cen-NIV-30696BD" data-link='(&lt;a href="#cen-NIV-30696BD" title="See cross-reference BD"&gt;BD&lt;/a&gt;)'></sup> to others show mercy, mixed with fear—hating even the clothing stained by corrupted flesh.<sup class="footnote" data-fn="#fen-NIV-30696f" data-link='[&lt;a href="#fen-NIV-30696f" title="See footnote f"&gt;f&lt;/a&gt;]'>[<a href="#fen-NIV-30696f" title="See footnote f">f</a>]</sup><sup class="crossreference" data-cr="#cen-NIV-30696BE" data-link='(&lt;a href="#cen-NIV-30696BE" title="See cross-reference BE"&gt;BE&lt;/a&gt;)'></sup></span></p> <h3><span class="text Jude-1-24" id="en-NIV-30697">Doxology</span></h3><p><span class="text Jude-1-24"><sup class="versenum">24 </sup>To him who is able<sup class="crossreference" data-cr="#cen-NIV-30697BF" data-link='(&lt;a href="#cen-NIV-30697BF" title="See cross-reference BF"&gt;BF&lt;/a&gt;)'></sup> to keep you from stumbling and to present you before his glorious presence<sup class="crossreference" data-cr="#cen-NIV-30697BG" data-link='(&lt;a href="#cen-NIV-30697BG" title="See cross-reference BG"&gt;BG&lt;/a&gt;)'></sup> without fault<sup class="crossreference" data-cr="#cen-NIV-30697BH" data-link='(&lt;a href="#cen-NIV-30697BH" title="See cross-reference BH"&gt;BH&lt;/a&gt;)'></sup> and with great joy—</span> <span class="text Jude-1-25" id="en-NIV-30698"><sup class="versenum">25 </sup>to the only God<sup class="crossreference" data-cr="#cen-NIV-30698BI" data-link='(&lt;a href="#cen-NIV-30698BI" title="See cross-reference BI"&gt;BI&lt;/a&gt;)'></sup> our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore!<sup class="crossreference" data-cr="#cen-NIV-30698BJ" data-link='(&lt;a href="#cen-NIV-30698BJ" title="See cross-reference BJ"&gt;BJ&lt;/a&gt;)'></sup> Amen.<sup class="crossreference" data-cr="#cen-NIV-30698BK" data-link='(&lt;a href="#cen-NIV-30698BK" title="See cross-reference BK"&gt;BK&lt;/a&gt;)'></sup></span></p> <div class="footnotes">
+<h4>Footnotes:</h4><ol type="a"><li id="fen-NIV-30674a"><a href="#en-NIV-30674" title="Go to Jude 1:1">Jude 1:1</a> <span class="footnote-text">Or <i>by</i>; or <i>in</i></span></li>
+<li id="fen-NIV-30677b"><a href="#en-NIV-30677" title="Go to Jude 1:4">Jude 1:4</a> <span class="footnote-text">Or <i>individuals who were marked out for condemnation</i></span></li>
+<li id="fen-NIV-30678c"><a href="#en-NIV-30678" title="Go to Jude 1:5">Jude 1:5</a> <span class="footnote-text">Some early manuscripts <i>Jesus</i></span></li>
+<li id="fen-NIV-30682d"><a href="#en-NIV-30682" title="Go to Jude 1:9">Jude 1:9</a> <span class="footnote-text">Jude is alluding to the Jewish <i>Testament of Moses</i> (approximately the first century <span class="small-caps">a.d.</span>).</span></li>
+<li id="fen-NIV-30688e"><a href="#en-NIV-30688" title="Go to Jude 1:15">Jude 1:15</a> <span class="footnote-text">From the Jewish <i>First Book of Enoch</i> (approximately the first century <span class="small-caps">b.c.</span>)</span></li>
+<li id="fen-NIV-30696f"><a href="#en-NIV-30696" title="Go to Jude 1:23">Jude 1:23</a> <span class="footnote-text">The Greek manuscripts of these verses vary at several points.</span></li>
+</ol></div> <!--end of footnotes-->
+<div class="crossrefs hidden">
+<h4>Cross references:</h4><ol type="A"><li id="cen-NIV-30674A"><a href="#en-NIV-30674" title="Go to Jude 1:1">Jude 1:1</a> : <a class="crossref-link" data-bibleref="Matt.13.55,John.14.22,Acts.1.13" href="/passage/?search=Matt 13:55, John 14:22, Acts 1:13&amp;version=NIV">Mt 13:55; Jn 14:22; Ac 1:13</a></li>
+<li id="cen-NIV-30674B"><a href="#en-NIV-30674" title="Go to Jude 1:1">Jude 1:1</a> : <a class="crossref-link" data-bibleref="Rom.1.1" href="/passage/?search=Rom 1:1&amp;version=NIV">Ro 1:1</a></li>
+<li id="cen-NIV-30674C"><a href="#en-NIV-30674" title="Go to Jude 1:1">Jude 1:1</a> : <a class="crossref-link" data-bibleref="Rom.1.6,Rom.1.7" href="/passage/?search=Rom 1:6, Rom 1:7&amp;version=NIV">Ro 1:6, 7</a></li>
+<li id="cen-NIV-30674D"><a href="#en-NIV-30674" title="Go to Jude 1:1">Jude 1:1</a> : <a class="crossref-link" data-bibleref="John.17.12" href="/passage/?search=John 17:12&amp;version=NIV">Jn 17:12</a></li>
+<li id="cen-NIV-30675E"><a href="#en-NIV-30675" title="Go to Jude 1:2">Jude 1:2</a> : <a class="crossref-link" data-bibleref="Gal.6.16,1Tim.1.2" href="/passage/?search=Gal 6:16, 1Tim 1:2&amp;version=NIV">Gal 6:16; 1Ti 1:2</a></li>
+<li id="cen-NIV-30675F"><a href="#en-NIV-30675" title="Go to Jude 1:2">Jude 1:2</a> : <a class="crossref-link" data-bibleref="Rom.1.7" href="/passage/?search=Rom 1:7&amp;version=NIV">S Ro 1:7</a></li>
+<li id="cen-NIV-30676G"><a href="#en-NIV-30676" title="Go to Jude 1:3">Jude 1:3</a> : <a class="crossref-link" data-bibleref="1Cor.10.14" href="/passage/?search=1Cor 10:14&amp;version=NIV">S 1Co 10:14</a></li>
+<li id="cen-NIV-30676H"><a href="#en-NIV-30676" title="Go to Jude 1:3">Jude 1:3</a> : <a class="crossref-link" data-bibleref="Titus.1.4" href="/passage/?search=Titus 1:4&amp;version=NIV">Tit 1:4</a></li>
+<li id="cen-NIV-30676I"><a href="#en-NIV-30676" title="Go to Jude 1:3">Jude 1:3</a> : <a class="crossref-link" data-bibleref="1Tim.6.12" href="/passage/?search=1Tim 6:12&amp;version=NIV">1Ti 6:12</a></li>
+<li id="cen-NIV-30676J"><a href="#en-NIV-30676" title="Go to Jude 1:3">Jude 1:3</a> : <a class="crossref-link" data-bibleref="Jude.1.20,Acts.6.7" href="/passage/?search=Jude 1:20, Acts 6:7&amp;version=NIV">ver 20; Ac 6:7</a></li>
+<li id="cen-NIV-30676K"><a href="#en-NIV-30676" title="Go to Jude 1:3">Jude 1:3</a> : <a class="crossref-link" data-bibleref="Acts.9.13" href="/passage/?search=Acts 9:13&amp;version=NIV">S Ac 9:13</a></li>
+<li id="cen-NIV-30677L"><a href="#en-NIV-30677" title="Go to Jude 1:4">Jude 1:4</a> : <a class="crossref-link" data-bibleref="Gal.2.4" href="/passage/?search=Gal 2:4&amp;version=NIV">Gal 2:4</a></li>
+<li id="cen-NIV-30677M"><a href="#en-NIV-30677" title="Go to Jude 1:4">Jude 1:4</a> : <a class="crossref-link" data-bibleref="Titus.1.16,2Pet.2.1,1John.2.22" href="/passage/?search=Titus 1:16, 2Pet 2:1, 1John 2:22&amp;version=NIV">Tit 1:16; 2Pe 2:1; 1Jn 2:22</a></li>
+<li id="cen-NIV-30678N"><a href="#en-NIV-30678" title="Go to Jude 1:5">Jude 1:5</a> : <a class="crossref-link" data-bibleref="1John.2.20" href="/passage/?search=1John 2:20&amp;version=NIV">S 1Jn 2:20</a></li>
+<li id="cen-NIV-30678O"><a href="#en-NIV-30678" title="Go to Jude 1:5">Jude 1:5</a> : <a class="crossref-link" data-bibleref="2Pet.1.12,2Pet.1.13,2Pet.3.1,2Pet.3.2" href="/passage/?search=2Pet 1:12, 2Pet 1:13, 2Pet 3:1, 2Pet 3:2&amp;version=NIV">2Pe 1:12, 13; 3:1, 2</a></li>
+<li id="cen-NIV-30678P"><a href="#en-NIV-30678" title="Go to Jude 1:5">Jude 1:5</a> : <a class="crossref-link" data-bibleref="Num.14.29,Deut.1.32,Deut.2.15,Ps.106.26,1Cor.10.1-1Cor.10.5,Heb.3.16,Heb.3.17" href="/passage/?search=Num 14:29, Deut 1:32, Deut 2:15, Ps 106:26, 1Cor 10:1-1Cor 10:5, Heb 3:16, Heb 3:17&amp;version=NIV">Nu 14:29; Dt 1:32; 2:15; Ps 106:26; 1Co 10:1-5; Heb 3:16, 17</a></li>
+<li id="cen-NIV-30679Q"><a href="#en-NIV-30679" title="Go to Jude 1:6">Jude 1:6</a> : <a class="crossref-link" data-bibleref="2Pet.2.4,2Pet.2.9" href="/passage/?search=2Pet 2:4, 2Pet 2:9&amp;version=NIV">S 2Pe 2:4, 9</a></li>
+<li id="cen-NIV-30680R"><a href="#en-NIV-30680" title="Go to Jude 1:7">Jude 1:7</a> : <a class="crossref-link" data-bibleref="Matt.10.15" href="/passage/?search=Matt 10:15&amp;version=NIV">S Mt 10:15</a></li>
+<li id="cen-NIV-30680S"><a href="#en-NIV-30680" title="Go to Jude 1:7">Jude 1:7</a> : <a class="crossref-link" data-bibleref="Deut.29.23" href="/passage/?search=Deut 29:23&amp;version=NIV">Dt 29:23</a></li>
+<li id="cen-NIV-30680T"><a href="#en-NIV-30680" title="Go to Jude 1:7">Jude 1:7</a> : <a class="crossref-link" data-bibleref="Matt.25.41,2Pet.3.7" href="/passage/?search=Matt 25:41, 2Pet 3:7&amp;version=NIV">S Mt 25:41; 2Pe 3:7</a></li>
+<li id="cen-NIV-30681U"><a href="#en-NIV-30681" title="Go to Jude 1:8">Jude 1:8</a> : <a class="crossref-link" data-bibleref="2Pet.2.10" href="/passage/?search=2Pet 2:10&amp;version=NIV">2Pe 2:10</a></li>
+<li id="cen-NIV-30682V"><a href="#en-NIV-30682" title="Go to Jude 1:9">Jude 1:9</a> : <a class="crossref-link" data-bibleref="1Thess.4.16" href="/passage/?search=1Thess 4:16&amp;version=NIV">1Th 4:16</a></li>
+<li id="cen-NIV-30682W"><a href="#en-NIV-30682" title="Go to Jude 1:9">Jude 1:9</a> : <a class="crossref-link" data-bibleref="Dan.10.13,Dan.10.21,Dan.12.1,Rev.12.7" href="/passage/?search=Dan 10:13, Dan 10:21, Dan 12:1, Rev 12:7&amp;version=NIV">Da 10:13, 21; 12:1; Rev 12:7</a></li>
+<li id="cen-NIV-30682X"><a href="#en-NIV-30682" title="Go to Jude 1:9">Jude 1:9</a> : <a class="crossref-link" data-bibleref="Deut.34.6" href="/passage/?search=Deut 34:6&amp;version=NIV">Dt 34:6</a></li>
+<li id="cen-NIV-30682Y"><a href="#en-NIV-30682" title="Go to Jude 1:9">Jude 1:9</a> : <a class="crossref-link" data-bibleref="Zech.3.2" href="/passage/?search=Zech 3:2&amp;version=NIV">Zec 3:2</a></li>
+<li id="cen-NIV-30683Z"><a href="#en-NIV-30683" title="Go to Jude 1:10">Jude 1:10</a> : <a class="crossref-link" data-bibleref="2Pet.2.12" href="/passage/?search=2Pet 2:12&amp;version=NIV">2Pe 2:12</a></li>
+<li id="cen-NIV-30684AA"><a href="#en-NIV-30684" title="Go to Jude 1:11">Jude 1:11</a> : <a class="crossref-link" data-bibleref="Gen.4.3-Gen.4.8,Heb.11.4,1John.3.12" href="/passage/?search=Gen 4:3-Gen 4:8, Heb 11:4, 1John 3:12&amp;version=NIV">Ge 4:3-8; Heb 11:4; 1Jn 3:12</a></li>
+<li id="cen-NIV-30684AB"><a href="#en-NIV-30684" title="Go to Jude 1:11">Jude 1:11</a> : <a class="crossref-link" data-bibleref="2Pet.2.15" href="/passage/?search=2Pet 2:15&amp;version=NIV">S 2Pe 2:15</a></li>
+<li id="cen-NIV-30684AC"><a href="#en-NIV-30684" title="Go to Jude 1:11">Jude 1:11</a> : <a class="crossref-link" data-bibleref="Num.16.1-Num.16.3,Num.16.31-Num.16.35" href="/passage/?search=Num 16:1-Num 16:3, Num 16:31-Num 16:35&amp;version=NIV">Nu 16:1-3, 31-35</a></li>
+<li id="cen-NIV-30685AD"><a href="#en-NIV-30685" title="Go to Jude 1:12">Jude 1:12</a> : <a class="crossref-link" data-bibleref="2Pet.2.13,1Cor.11.20-1Cor.11.22" href="/passage/?search=2Pet 2:13, 1Cor 11:20-1Cor 11:22&amp;version=NIV">2Pe 2:13; 1Co 11:20-22</a></li>
+<li id="cen-NIV-30685AE"><a href="#en-NIV-30685" title="Go to Jude 1:12">Jude 1:12</a> : <a class="crossref-link" data-bibleref="Ezek.34.2,Ezek.34.8,Ezek.34.10" href="/passage/?search=Ezek 34:2, Ezek 34:8, Ezek 34:10&amp;version=NIV">Eze 34:2, 8, 10</a></li>
+<li id="cen-NIV-30685AF"><a href="#en-NIV-30685" title="Go to Jude 1:12">Jude 1:12</a> : <a class="crossref-link" data-bibleref="Prov.25.14,2Pet.2.17" href="/passage/?search=Prov 25:14, 2Pet 2:17&amp;version=NIV">Pr 25:14; 2Pe 2:17</a></li>
+<li id="cen-NIV-30685AG"><a href="#en-NIV-30685" title="Go to Jude 1:12">Jude 1:12</a> : <a class="crossref-link" data-bibleref="Eph.4.14" href="/passage/?search=Eph 4:14&amp;version=NIV">Eph 4:14</a></li>
+<li id="cen-NIV-30685AH"><a href="#en-NIV-30685" title="Go to Jude 1:12">Jude 1:12</a> : <a class="crossref-link" data-bibleref="Matt.15.13" href="/passage/?search=Matt 15:13&amp;version=NIV">Mt 15:13</a></li>
+<li id="cen-NIV-30686AI"><a href="#en-NIV-30686" title="Go to Jude 1:13">Jude 1:13</a> : <a class="crossref-link" data-bibleref="Isa.57.20" href="/passage/?search=Isa 57:20&amp;version=NIV">Isa 57:20</a></li>
+<li id="cen-NIV-30686AJ"><a href="#en-NIV-30686" title="Go to Jude 1:13">Jude 1:13</a> : <a class="crossref-link" data-bibleref="Phil.3.19" href="/passage/?search=Phil 3:19&amp;version=NIV">Php 3:19</a></li>
+<li id="cen-NIV-30686AK"><a href="#en-NIV-30686" title="Go to Jude 1:13">Jude 1:13</a> : <a class="crossref-link" data-bibleref="2Pet.2.17" href="/passage/?search=2Pet 2:17&amp;version=NIV">2Pe 2:17</a></li>
+<li id="cen-NIV-30687AL"><a href="#en-NIV-30687" title="Go to Jude 1:14">Jude 1:14</a> : <a class="crossref-link" data-bibleref="Gen.5.18,Gen.5.21-Gen.5.24" href="/passage/?search=Gen 5:18, Gen 5:21-Gen 5:24&amp;version=NIV">Ge 5:18, 21-24</a></li>
+<li id="cen-NIV-30687AM"><a href="#en-NIV-30687" title="Go to Jude 1:14">Jude 1:14</a> : <a class="crossref-link" data-bibleref="Matt.16.27" href="/passage/?search=Matt 16:27&amp;version=NIV">S Mt 16:27</a></li>
+<li id="cen-NIV-30687AN"><a href="#en-NIV-30687" title="Go to Jude 1:14">Jude 1:14</a> : <a class="crossref-link" data-bibleref="Deut.33.2,Dan.7.10,Zech.14.5,Heb.12.22" href="/passage/?search=Deut 33:2, Dan 7:10, Zech 14:5, Heb 12:22&amp;version=NIV">Dt 33:2; Da 7:10; Zec 14:5; Heb 12:22</a></li>
+<li id="cen-NIV-30688AO"><a href="#en-NIV-30688" title="Go to Jude 1:15">Jude 1:15</a> : <a class="crossref-link" data-bibleref="2Pet.2.6-2Pet.2.9" href="/passage/?search=2Pet 2:6-2Pet 2:9&amp;version=NIV">2Pe 2:6-9</a></li>
+<li id="cen-NIV-30688AP"><a href="#en-NIV-30688" title="Go to Jude 1:15">Jude 1:15</a> : <a class="crossref-link" data-bibleref="1Tim.1.9" href="/passage/?search=1Tim 1:9&amp;version=NIV">1Ti 1:9</a></li>
+<li id="cen-NIV-30689AQ"><a href="#en-NIV-30689" title="Go to Jude 1:16">Jude 1:16</a> : <a class="crossref-link" data-bibleref="1Cor.10.10" href="/passage/?search=1Cor 10:10&amp;version=NIV">1Co 10:10</a></li>
+<li id="cen-NIV-30689AR"><a href="#en-NIV-30689" title="Go to Jude 1:16">Jude 1:16</a> : <a class="crossref-link" data-bibleref="Jude.1.18,2Pet.2.10" href="/passage/?search=Jude 1:18, 2Pet 2:10&amp;version=NIV">ver 18; 2Pe 2:10</a></li>
+<li id="cen-NIV-30689AS"><a href="#en-NIV-30689" title="Go to Jude 1:16">Jude 1:16</a> : <a class="crossref-link" data-bibleref="2Pet.2.18" href="/passage/?search=2Pet 2:18&amp;version=NIV">2Pe 2:18</a></li>
+<li id="cen-NIV-30690AT"><a href="#en-NIV-30690" title="Go to Jude 1:17">Jude 1:17</a> : <a class="crossref-link" data-bibleref="Eph.4.11" href="/passage/?search=Eph 4:11&amp;version=NIV">S Eph 4:11</a></li>
+<li id="cen-NIV-30690AU"><a href="#en-NIV-30690" title="Go to Jude 1:17">Jude 1:17</a> : <a class="crossref-link" data-bibleref="Heb.2.3,2Pet.3.2" href="/passage/?search=Heb 2:3, 2Pet 3:2&amp;version=NIV">Heb 2:3; 2Pe 3:2</a></li>
+<li id="cen-NIV-30691AV"><a href="#en-NIV-30691" title="Go to Jude 1:18">Jude 1:18</a> : <a class="crossref-link" data-bibleref="1Tim.4.1,2Tim.3.1,2Pet.3.3" href="/passage/?search=1Tim 4:1, 2Tim 3:1, 2Pet 3:3&amp;version=NIV">1Ti 4:1; 2Ti 3:1; 2Pe 3:3</a></li>
+<li id="cen-NIV-30691AW"><a href="#en-NIV-30691" title="Go to Jude 1:18">Jude 1:18</a> : <a class="crossref-link" data-bibleref="Jude.1.16,2Pet.2.1,2Pet.3.3" href="/passage/?search=Jude 1:16, 2Pet 2:1, 2Pet 3:3&amp;version=NIV">ver 16; 2Pe 2:1; 3:3</a></li>
+<li id="cen-NIV-30692AX"><a href="#en-NIV-30692" title="Go to Jude 1:19">Jude 1:19</a> : <a class="crossref-link" data-bibleref="1Cor.2.14,1Cor.2.15" href="/passage/?search=1Cor 2:14, 1Cor 2:15&amp;version=NIV">1Co 2:14, 15</a></li>
+<li id="cen-NIV-30693AY"><a href="#en-NIV-30693" title="Go to Jude 1:20">Jude 1:20</a> : <a class="crossref-link" data-bibleref="Col.2.7,1Thess.5.11" href="/passage/?search=Col 2:7, 1Thess 5:11&amp;version=NIV">Col 2:7; 1Th 5:11</a></li>
+<li id="cen-NIV-30693AZ"><a href="#en-NIV-30693" title="Go to Jude 1:20">Jude 1:20</a> : <a class="crossref-link" data-bibleref="Jude.1.3" href="/passage/?search=Jude 1:3&amp;version=NIV">ver 3</a></li>
+<li id="cen-NIV-30693BA"><a href="#en-NIV-30693" title="Go to Jude 1:20">Jude 1:20</a> : <a class="crossref-link" data-bibleref="Eph.6.18" href="/passage/?search=Eph 6:18&amp;version=NIV">Eph 6:18</a></li>
+<li id="cen-NIV-30694BB"><a href="#en-NIV-30694" title="Go to Jude 1:21">Jude 1:21</a> : <a class="crossref-link" data-bibleref="Titus.2.13,Heb.9.28,2Pet.3.12" href="/passage/?search=Titus 2:13, Heb 9:28, 2Pet 3:12&amp;version=NIV">Tit 2:13; Heb 9:28; 2Pe 3:12</a></li>
+<li id="cen-NIV-30694BC"><a href="#en-NIV-30694" title="Go to Jude 1:21">Jude 1:21</a> : <a class="crossref-link" data-bibleref="Matt.25.46" href="/passage/?search=Matt 25:46&amp;version=NIV">S Mt 25:46</a></li>
+<li id="cen-NIV-30696BD"><a href="#en-NIV-30696" title="Go to Jude 1:23">Jude 1:23</a> : <a class="crossref-link" data-bibleref="Amos.4.11,Zech.3.2-Zech.3.5,1Cor.3.15" href="/passage/?search=Amos 4:11, Zech 3:2-Zech 3:5, 1Cor 3:15&amp;version=NIV">Am 4:11; Zec 3:2-5; 1Co 3:15</a></li>
+<li id="cen-NIV-30696BE"><a href="#en-NIV-30696" title="Go to Jude 1:23">Jude 1:23</a> : <a class="crossref-link" data-bibleref="Rev.3.4" href="/passage/?search=Rev 3:4&amp;version=NIV">Rev 3:4</a></li>
+<li id="cen-NIV-30697BF"><a href="#en-NIV-30697" title="Go to Jude 1:24">Jude 1:24</a> : <a class="crossref-link" data-bibleref="Rom.16.25" href="/passage/?search=Rom 16:25&amp;version=NIV">S Ro 16:25</a></li>
+<li id="cen-NIV-30697BG"><a href="#en-NIV-30697" title="Go to Jude 1:24">Jude 1:24</a> : <a class="crossref-link" data-bibleref="2Cor.4.14" href="/passage/?search=2Cor 4:14&amp;version=NIV">S 2Co 4:14</a></li>
+<li id="cen-NIV-30697BH"><a href="#en-NIV-30697" title="Go to Jude 1:24">Jude 1:24</a> : <a class="crossref-link" data-bibleref="Col.1.22" href="/passage/?search=Col 1:22&amp;version=NIV">Col 1:22</a></li>
+<li id="cen-NIV-30698BI"><a href="#en-NIV-30698" title="Go to Jude 1:25">Jude 1:25</a> : <a class="crossref-link" data-bibleref="John.5.44,1Tim.1.17" href="/passage/?search=John 5:44, 1Tim 1:17&amp;version=NIV">Jn 5:44; 1Ti 1:17</a></li>
+<li id="cen-NIV-30698BJ"><a href="#en-NIV-30698" title="Go to Jude 1:25">Jude 1:25</a> : <a class="crossref-link" data-bibleref="Heb.13.8" href="/passage/?search=Heb 13:8&amp;version=NIV">Heb 13:8</a></li>
+<li id="cen-NIV-30698BK"><a href="#en-NIV-30698" title="Go to Jude 1:25">Jude 1:25</a> : <a class="crossref-link" data-bibleref="Rom.11.36" href="/passage/?search=Rom 11:36&amp;version=NIV">S Ro 11:36</a></li>
+</ol></div> <!--end of crossrefs-->
+</div>
+<div class="publisher-info-bottom with-single">
+<strong><a href="/versions/New-International-Version-NIV-Bible/">New International Version</a> (NIV)</strong> <p>Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by <a href="http://www.biblica.com/">Biblica, Inc.®</a> Used by permission. All rights reserved worldwide.</p></div></div>
+</div>
+</div>
+</td>
+</table>
+<div class="next-chapter"><a href="/passage/?search=Revelation%201&amp;version=NIV" title="Revelation 1"><span class="icon-passage-next"></span></a></div>
+</div>
+</div> <!--END .passage-box-->
+</div> <!--END .passage-text-->
+<div class="passage-resources">
+<div class="passage-resources-link close-link">
+<span class="icon-resources-open"></span>
+<span class="related-resources">Study This</span>
+</div>
+<div class="passage-resources-content">
+<ul class="resource-type">
+<li class="studybible resource-toggle resource-item" data-target=".studybible.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Study Bibles<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="studybible resources-contents collapse in resource-item"></li>
+<li class="commentary resource-toggle resource-item" data-target=".commentary.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Commentaries<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="commentary resources-contents collapse in resource-item"></li>
+<li class="toggle dictionary resource-toggle resource-item" data-target=".dictionary.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Dictionaries<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="dictionary resources-contents collapse in resource-item"></li>
+<li class="encyclopedia resource-toggle resource-item" data-target=".encyclopedia.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Encyclopedias<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="encyclopedia resources-contents collapse in resource-item"></li>
+<li class="biblemap resource-toggle resource-item" data-target=".biblemap.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Maps<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="biblemap resources-contents collapse in resource-item"></li>
+<li class="hidden allpurchased resource-toggle resource-item" data-target=".allpurchased.resources-contents" data-toggle="collapse"><span class="expand icon-collapse"></span>Purchased<span class="count"><img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/></span></li>
+<li class="hidden allpurchased resources-contents collapse in resource-item"></li>
+</ul>
+<div class="resource-entry">
+<div class="resource-pub"><span class="icon-fallback-text"><span aria-hidden="true" class="icon icon-passage-previous"></span><span class="text">Back </span></span><span class="pub-title"></span></div>
+<div class="entry-loading">
+<img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/>
+</div>
+<div class="resource-bga-link"></div>
+<div class="entry-content">
+<h4 class="title"></h4><div class="content"></div>
+</div>
+<div class="pub-details">
+<div class="pub-scroller">
+<div class="paginate-wrapper"><div class="paginate">1 of 1</div></div>
+<a class="icon-passage-previous entry-link"></a>
+<a class="icon-passage-next entry-link"></a>
+<div style="clear:left"></div>
+</div>
+<div class="pub-info">
+</div>
+</div>
+</div>
+<div class="resource-entry-gk">
+<div class="resource-pub"><div class="pub-title"></div></div><div class="icon-close"></div>
+<div class="clearfix"></div>
+<div class="entry-loading">
+<img src="https://static6-a.akamaihd.net/assets/images/spinner-grey.gif?aeaa6cda"/>
+</div>
+<div class="resource-bga-link"></div>
+<div class="entry-content">
+<h4 class="title"></h4><div class="content"></div>
+</div>
+<div class="pub-details">
+<div class="pub-info">
+<h5 class="pub-title"></h5>
+<div class="pub-description"></div>
+<div class="pub-copyright"></div>
+</div>
+</div>
+</div>
+<div class="resource-preview">
+<div class="resource-pub"><span class="icon-passage-previous"></span><span class="pub-title"></span><span class="icon-purchase"></span></div>
+<div class="preview-content">
+<a class="product-buy pub-cover-link" href="http://biblegateway.christianbook.com/" target="_blank"><img class="preview-pub-cover"/></a>
+<div class="preview-pub-info"><div class="preview-pub-title"><a class="product-buy" href="http://biblegateway.christianbook.com/" target="blank"></a></div><div class="preview-pub-description"></div>
+<a class="btn product-btn-buy product-buy" href="http://biblegateway.christianbook.com/" target="_blank">Buy Now</a>
+<div class="price-info"><div class="retail-price product-retail-price"></div><div class="our-price"></div><div class="save-amount"></div></div>
+</div>
+<div class="buy-info">
+<div class="purchase-help">By clicking Buy Now you will be directed to another page. <a class="preview-whycbdredir" data-bg-tooltip="whycbdredir" href="#">Why?</a></div>
+<div class="bg-tooltip-content-whycbdredir bg-tooltip-hidden-content">
+                        Purchases from our store are processed by our partner, <a href="http://biblegateway.christianbook.com">Christianbook.com</a>. After purchase, you will receive an email from them with a redemption code, which will unlock your purchased content at Bible Gateway.                      </div>
+<p class="redeem">Already have a redemption code? <a class="redeem-link" href="/user/products/?token=">Redeem it here.</a><br/>
+                      Already redeemed? <a class="refresh-page">Refresh the page.</a></p>
+</div>
+<div class="preview-header-wrapper clearfix"><div class="preview-header">Content Preview</div><div class="preview-count"></div></div>
+<p class="preview-info-text">This is a content preview. <a href="http://biblegateway.christianbook.com">Buy this title</a> to see more.</p>
+</div>
+<div class="login-modal-text"><strong>You must be logged in to view your newly purchased content.</strong> Please log in below or if you don't have an account, creating one is easy and only takes a few moments. After you log in your content will be available in your library.</div>
+</div>
+</div> <!--END .passage-resources-content-->
+</div> <!--END .passage-resources-->
+</div> <!-- .passage-resource-table -->
+<div class="passage-scroller bottom-scroller">
+<div class="top-link-wrapper"><div class="top-link">Top</div></div>
+<a class="prev-link" href="/passage/?search=3%20John%201&amp;version=NIV" title="3 John 1"><span class="icon-passage-previous"></span><span class="heading">3 John 1</span></a><a class="next-link" href="/passage/?search=Revelation%201&amp;version=NIV" title="Revelation 1"><span class="heading">Revelation 1</span><span class="icon-passage-next"></span></a> <div style="clear:left"></div>
+</div>
+</div> <!-- .passage-main-wrap -->
+</div> <!--end .passage-main-->
+<div class="sidebar-main bga-sidebar sidebar">
+<div class="sidebar-wrap">
+<div class="pub-bug-row">
+<a href="http://www.biblica.com/niv/?utm_source=BG-NIV2011-Bug&amp;utm_medium=BG-Bugs&amp;utm_content=BUG%20-%202013-09-20-Helping%20People%20Around%20the%20World&amp;utm_campaign=BibleGateway"><img alt="Helping people around the world access the Bible and read it well for over 200 years." class="bug-full" src="https://static6-a.akamaihd.net/assets/images/bugs/bug_niv.png?aeaa6cda"/></a></div>
+<div class="more-from-translation">
+<div class="section-box" id="niv-info"><div class="section-content"><div class="section-header"><h3>More on the NIV</h3></div><div class="section"><ul><li><a href="http://www.biblica.com/en-us/the-niv-bible/about-the-niv/?utm_source=BG-NIV2011-Suggested&amp;utm_medium=referral&amp;utm_content=URL%20-%20About%20the%20NIV&amp;utm_campaign=BibleGateway
+">About the NIV</a></li><li><a href="http://www.biblica.com/en-us/the-niv-bible/niv-story/?utm_source=BG-NIV2011-Suggested&amp;utm_medium=referral&amp;utm_content=URL%20-%20NIV%20story&amp;utm_campaign=BibleGateway">NIV story</a></li><li><a href="http://www.biblica.com/en-us/the-niv-bible/meet-the-translators/?utm_source=BG-NIV2011-Suggested&amp;utm_medium=referral&amp;utm_content=URL%20-%20Meet%20the%20translators&amp;utm_campaign=BibleGateway
+">Meet the Translators</a></li><li><a href="http://www.biblica.com/en-us/give/cause/help-translate-bibles/?utm_source=BG-NIV2011-Suggested&amp;utm_medium=referral&amp;utm_content=URL%20-%20Help%20translate%20Bibles&amp;utm_campaign=BibleGateway
+">Help translate Bibles</a></li></ul></div><!-- .section --></div><!-- .section-content --></div><!-- .section-box --></div>
+<div class="bga-sidebar-promotion">
+<div id="bga-gt-sidetall">
+<script type="text/javascript">
+BG.renderBGA('SideTall');
+</script>
+</div></div>
+</div>
+</div><!-- .sidebar-main -->
+<div class="sidebar-opposite sidebar">
+<div class="recommendations">
+<div class="row"><div class="recommendations-header-column col-full"><h4>Bible Gateway Recommends</h4></div></div><!-- .row --><div class="row recommendations-products-row"><div class="recommendations-column col-full"><div class="product" data-sku="937350"><figure class="product-img"><a href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=937350&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310937357']);" rel="nofollow" target="_blank"><img alt="NIV New Women's Compact Devotional Bible--soft leather-look, chocolate/orchid" height="108" src="//g.christianbook.com/g/thumbnail/9/937350t.gif" width="108"/></a></figure><div class="product-info"><a class="product-title" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=937350&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310937357']);" rel="nofollow" target="_blank">NIV New Women's Compact Devotional Bible--soft leather-look, chocolate/orchid</a><div class="product-retail-price">Retail: $39.99</div><strong>Our Price: $16.99</strong><span>Save: $23.00 (58%)</span><div class="merch-stars stars-45"><img alt="4.5 of 5.0 stars" src="https://static6-a.akamaihd.net/assets/images/merch/stars45.png?aeaa6cda"/></div><a class="btn product-btn-buy" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=937350&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310937357']);" rel="nofollow" target="_blank">Buy Now</a></div><!-- .product-info --></div><!-- .product --></div><!-- .recommendations-column --><div class="recommendations-column col-full"><div class="product" data-sku="411598"><figure class="product-img"><a href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=411598&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310411598']);" rel="nofollow" target="_blank"><img alt="NIV Quilted Collection Bible, Italian Duo-Tone, Cherry" height="108" src="//g.christianbook.com/dg/product/ingram/b108/411598.gif" width="108"/></a></figure><div class="product-info"><a class="product-title" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=411598&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310411598']);" rel="nofollow" target="_blank">NIV Quilted Collection Bible, Italian Duo-Tone, Cherry</a><div class="product-retail-price">Retail: $34.99</div><strong>Our Price: $9.99</strong><span>Save: $25.00 (71%)</span><div class="merch-stars stars-50"><img alt="5.0 of 5.0 stars" src="https://static6-a.akamaihd.net/assets/images/merch/stars50.png?aeaa6cda"/></div><a class="btn product-btn-buy" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=411598&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310411598']);" rel="nofollow" target="_blank">Buy Now</a></div><!-- .product-info --></div><!-- .product --></div><!-- .recommendations-column --></div><!-- .row --><div class="row recommendations-view-row"><div class="col-full"><a class="recommendations-view-more" href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-json/nivpassagepage" onclick="_gaq.push(['_trackEvent','CBD Passage', 'click', 'more']);" rel="nofollow" target="_blank">View more titles</a></div></div><!-- .row --> </div>
+</div>
+</div>
+<section class="recommendations">
+<div class="container">
+<div class="row">
+<div class="rec-column-a col-lg-12">
+<div class="row"><div class="recommendations-header-column col-full"><h4>Bible Gateway Recommends</h4></div></div><!-- .row --><div class="row recommendations-products-row"><div class="recommendations-column col-lg-4"><div class="product" data-sku="731139"><figure class="product-img"><a href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=731139&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310731139']);" rel="nofollow" target="_blank"><img alt="NIV Sequin Bible Hot Pink Hearts" height="108" src="//g.christianbook.com/g/thumbnail/7/731139t.gif" width="108"/></a></figure><div class="product-info"><a class="product-title" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=731139&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310731139']);" rel="nofollow" target="_blank">NIV Sequin Bible Hot Pink Hearts</a><div class="product-retail-price">Retail: $29.99</div><strong>Our Price: $9.99</strong><span>Save: $20.00 (67%)</span><div class="merch-stars stars-50"><img alt="5.0 of 5.0 stars" src="https://static6-a.akamaihd.net/assets/images/merch/stars50.png?aeaa6cda"/></div><a class="btn product-btn-buy" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=731139&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310731139']);" rel="nofollow" target="_blank">Buy Now</a></div><!-- .product-info --></div><!-- .product --></div><!-- .recommendations-column --><div class="recommendations-column col-lg-4 last"><div class="product" data-sku="207211CS"><figure class="product-img"><a href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=207211CS&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);" rel="nofollow" target="_blank"><img alt="NIV Larger-Print Bible, Case of 24" height="108" src="//g.christianbook.com/g/thumbnail/2/207211cst.gif" width="108"/></a></figure><div class="product-info"><a class="product-title" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=207211CS&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);" rel="nofollow" target="_blank">NIV Larger-Print Bible, Case of 24</a><div class="product-retail-price">Retail: $143.76</div><strong>Our Price: $82.80</strong><span>Save: $60.96 (42%)</span><a class="btn product-btn-buy" href="http://biblegateway.christianbook.com/Christian/Books/product?item_no=207211CS&amp;p=1172354" onclick="_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);" rel="nofollow" target="_blank">Buy Now</a></div><!-- .product-info --></div><!-- .product --></div><!-- .recommendations-column --></div><!-- .row --><div class="row recommendations-view-row"><div class="col-full"><a class="recommendations-view-more" href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-json/nivpassagepage" onclick="_gaq.push(['_trackEvent','CBD Passage', 'click', 'more']);" rel="nofollow" target="_blank">View more titles</a></div></div><!-- .row --> </div>
+</div>
+</div>
+</section>
+<section class="bga leader bga-bottom">
+<div class="bga-column">
+<div class="bga-wrap">
+<div class="bga-placement">
+<div id="bga-gt-bottom">
+<script type="text/javascript">
+BG.renderBGA('Bottom');
+</script>
+</div> </div>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<div class="footer-menu-row is-phone-only">
+<div class="full-column col-sm-12">
+<div class="footer-menu-wrapper">
+<div class="footer-title">
+                Bible Gateway
+              </div>
+<div class="footer-menu" id="footer-menu">
+<div class="footer-menu-panel panel">
+<a class="footer-menu-panel-title" data-parent="#footer-menu" data-toggle="collapse" href="#collapse-help">
+                    Help
+                  </a>
+<div class="collapse" id="collapse-help">
+<div class="footer-menu-panel-body">
+<ul>
+<li><a href="/help/" title="FAQs/Tutorials">FAQs/Tutorials</a></li>
+<li><a href="/feedback/" title="Contact us/Feedback">Contact us/Feedback</a></li>
+<li><a href="/info/advertising/" title="Why We Advertise">Why We Advertise</a></li>
+<li><a href="/usage/" title="Use Bible Gateway On Your Site">Use Bible Gateway On Your Site</a></li>
+<li><a href="http://www.salemwebnetwork.com/biblegateway/" title="Advertise with Us">Advertise with Us</a></li>
+<li><a href="http://www.biblegateway.com/supporting-biblegateway" title="Supporting Bible Gateway">How to Support Bible Gateway</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-menu-panel panel">
+<a class="footer-menu-panel-title" data-parent="#footer-menu" data-toggle="collapse" href="#collapse-links">
+                    Links
+                  </a>
+<div class="collapse" id="collapse-links">
+<div class="footer-menu-panel-body">
+<ul>
+<li><a href="http://biblegateway.christianbook.com" rel="nofollow" title="Bible Gateway Store">Bible Gateway Store</a></li>
+<li><a href="http://mobile.biblegateway.com/" title="Mobile Bible Gateway">Mobile Bible Gateway</a></li>
+<li><a href="http://www.churchsource.com" title="ChurchSource">ChurchSource</a></li>
+<li><a href="http://www.gospel.com" title="Gospel.com">Gospel.com</a></li>
+<li><a href="http://www.harpercollinschristian.com/" title="Harper Collins Christian Publishing">HarperCollins Christian Publishing</a></li>
+<li><a href="http://www.reverendfun.com/" title="Reverend Fun">Reverend Fun</a></li>
+<li><a href="http://www.thomasnelson.com" title="Thomas Nelson">Thomas Nelson</a></li>
+<li><a href="http://www.westbowpress.com/" rel="nofollow" title="Westbow Press">Westbow Press</a></li>
+<li><a href="http://www.womenoffaith.com" title="Women of Faith">Women of Faith</a></li>
+<li><a href="http://www.zondervan.com/" title="Zondervan.com">Zondervan.com</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-menu-panel panel">
+<a class="footer-menu-panel-title" data-parent="#footer-menu" data-toggle="collapse" href="#collapse-about">
+                    About
+                  </a>
+<div class="collapse" id="collapse-about">
+<div class="footer-menu-panel-body">
+<ul>
+<li><a href="http://www.biblegateway.com/blog/" title="Bible Gateway Blog">Bible Gateway Blog</a></li>
+<li><a href="/about/faith/" title="Statement of Faith">Statement of Faith</a></li>
+<li><a href="/about/" title="About Bible Gateway">About Bible Gateway</a></li>
+<li><a href="/press/" title="Press">Press Releases</a></li>
+<li><a href="/site-map/" title="Site map">Site map</a></li>
+<li><a href="/legal/privacy/" title="Privacy policy">Privacy policy</a></li>
+<li><a href="/legal/privacy/#h3" title="Your Ad Choices">Your Ad Choices</a></li>
+<li><a href="/legal/terms/" title="Site: Terms of use">Site: Terms of use</a></li>
+<li><a href="/legal/widget-terms/" title="Widget: Terms of use">Widget: Terms of use</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-menu-panel panel">
+<a class="footer-menu-panel-title" data-parent="#footer-menu" data-toggle="collapse" href="#collapse-preferences">
+                    Preferences
+                  </a>
+<div class="collapse" id="collapse-preferences">
+<div class="footer-menu-panel-body">
+<ul>
+<li><a href="/languages/update/?language=es&amp;url=%2Fpassage%2F%3Fsearch%3DJude1%253A1-3%253A2%26version%3DNIV">En Español</a></li>
+<li><a href="/preferences/" title="Set your preferences for BibleGateway.com">Preferences</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<ul class="social-icons">
+<li>
+<a class="icon-facebook" href="https://www.facebook.com/BibleGateway" onclick="_gaq.push(['_trackEvent', 'social', 'socialclick']);" rel="nofollow" target="_blank" title="Bible Gateway on Facebook"></a>
+</li>
+<li>
+<a class="icon-twitter" href="https://twitter.com/biblegateway" onclick="_gaq.push(['_trackEvent', 'social', 'socialclick']);" rel="nofollow" target="_blank" title="Bible Gateway on Twitter"></a>
+</li>
+<li>
+<a class="icon-gplus" href="https://plus.google.com/+BibleGateway/" onclick="_gaq.push(['_trackEvent', 'social', 'socialclick']);" rel="nofollow" target="_blank" title="Bible Gateway on Google+"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-expanded-row is-tablet-up">
+<div class="col-lg-8">
+<div class="row">
+<div class="footer-title-col col-sm-3">
+<div class="footer-title">
+                    Bible Gateway                </div>
+</div>
+<div class="footer-links-col col-sm-3"><h5>Help</h5><ul class="footer-links"><li><a href="/help/" title="FAQs/Tutorials">FAQs/Tutorials</a></li><li><a href="/feedback/" title="Contact us/Feedback">Contact us/Feedback</a></li><li><a href="/info/advertising/" title="Why We Advertise">Why We Advertise</a></li><li><a href="/usage/" title="Use Bible Gateway On Your Site">Use Bible Gateway On Your Site</a></li><li><a href="http://www.salemwebnetwork.com/biblegateway/" target="_blank" title="Advertise with Us">Advertise with Us</a></li><li><a href="http://www.biblegateway.com/supporting-biblegateway" title="Supporting Bible Gateway">How to Support Bible Gateway</a></li></ul></div><div class="footer-links-col col-sm-3"><h5>Links</h5><ul class="footer-links"><li><a href="http://biblegateway.christianbook.com" rel="nofollow" target="_blank" title="Bible Gateway Store">Bible Gateway Store</a></li><li><a href="http://www.churchsource.com" target="_blank" title="ChurchSource">ChurchSource</a></li><li><a href="http://www.faithgateway.com" onclick="_gaq.push(['_trackEvent', 'footer', 'click', 'faithgateway']);">FaithGateway</a></li><li><a href="http://www.gospel.com" target="_blank" title="Gospel.com">Gospel.com</a></li><li><a href="http://www.harpercollinschristian.com/" target="_blank" title="Harper Collins Christian Publishing">HarperCollins Christian Publishing</a></li><li><a href="http://www.reverendfun.com/" target="_blank" title="Reverend Fun">Reverend Fun</a></li><li><a href="http://www.studygateway.com" onclick="_gaq.push(['_trackEvent', 'footer', 'click', 'studygateway']);">StudyGateway</a></li><li><a href="http://www.thomasnelson.com" target="_blank" title="Thomas Nelson">Thomas Nelson</a></li><li><a href="http://www.westbowpress.com/GuideToSuccess.aspx?Cat=Partner&amp;LS=Referral&amp;SRC=BGWfooter72015" rel="nofollow" target="_blank" title="Westbow Press">WestBow Press</a></li><li><a href="http://www.zondervan.com/" target="_blank" title="Zondervan.com">Zondervan.com</a></li></ul></div><div class="footer-links-col col-sm-3"><h5>About</h5><ul class="footer-links"><li><a href="http://www.biblegateway.com/blog/" title="Bible Gateway Blog">Bible Gateway Blog</a></li><li><a href="/about/faith/" title="Statement of Faith">Statement of Faith</a></li><li><a href="/about/" title="About Bible Gateway">About Bible Gateway</a></li><li><a href="/newsroom/" title="Newsroom">Newsroom</a></li><li><a href="/site-map/" title="Site map">Site map</a></li><li><a href="/legal/privacy/" title="Privacy policy">Privacy policy</a></li><li><a href="/legal/privacy/#h3" title="Your Ad Choices">Your Ad Choices</a></li><li><a href="/legal/terms/" title="Site: Terms of use">Site: Terms of use</a></li><li><a href="/legal/widget-terms/" title="Widget: Terms of use">Widget: Terms of use</a></li></ul></div> </div>
+</div>
+<div class="col-lg-4">
+<div class="row">
+<div class="footer-spacer-col col-lg-2"></div>
+<div class="footer-lang-col col-lg-4">
+<ul class="footer-links">
+<li><a class="ui-lang" data-uilang="es" href="/languages/update/?language=es&amp;url=%2Fpassage%2F%3Fsearch%3DJude1%253A1-3%253A2%26version%3DNIV">En Español</a></li>
+<li><a href="/preferences/" title="Set your preferences for BibleGateway.com">Preferences</a></li>
+</ul>
+</div>
+<div class="footer-social-icons-col col-lg-6">
+<ul class="social-icons">
+<li>
+<a class="icon-facebook" href="https://www.facebook.com/BibleGateway" rel="nofollow" target="_blank" title="Bible Gateway on Facebook"></a>
+</li>
+<li>
+<a class="icon-twitter" href="https://twitter.com/biblegateway" rel="nofollow" target="_blank" title="Bible Gateway on Twitter"></a>
+</li>
+<li>
+<a class="icon-gplus" href="https://plus.google.com/+BibleGateway/" rel="nofollow" target="_blank" title="Bible Gateway on Google+"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="app-templates">
+<div class="note-popover-template">
+<div class="options"><span class="icon-trash delete"></span><span class="icon-edit edit-link"></span></div>
+<div class="edit view reference"></div>
+<textarea class="new edit content" placeholder="Add Note..."></textarea>
+<div class="view content"></div>
+<div class="view note-scroller"><div class="paginate-wrapper"><div class="paginate">Viewing <span class="note-num"></span> of <span class="note-total"></span></div></div><span class="prev-note icon-passage-previous hidden"></span><span class="next-note icon-passage-next hidden"></span><div style="clear:left"></div></div>
+<div class="edit new buttons"><button class="standard-btn cancel">Cancel</button><button class="standard-btn save">Save</button></div>
+</div>
+<div class="notes-menu-popover"><span class="highlights notes-options"><span class="highlight-yellow"></span><span class="highlight-red"></span><span class="highlight-blue"></span><span class="highlight-green"></span><span class="highlight-delete icon-delete-highlight"></span></span><span class="notes-options"><span class="icon-favorite favorite"></span><span class="icon-note note"></span><span class="icon-share2 share"></span></span></div>
+<div class="bg-popover-content social-share" id="passage-share-popover-content">
+<ul class="passage-share-list bg-popover-list">
+<li>
+<a class="print_link" href="">
+<span class="bg-popover-icon icon-print"></span>
+        Print      </a>
+</li>
+<li>
+<a class="share-link share-link-twitter">
+<span class="bg-popover-icon icon-twitter"></span>
+        Twitter      </a>
+</li>
+<li>
+<a class="share-link share-link-facebook">
+<span class="bg-popover-icon icon-facebook"></span>
+        Facebook      </a>
+</li>
+<li>
+<a class="share-link-email">
+<span class="bg-popover-icon icon-email"></span>
+        Email      </a>
+</li>
+</ul>
+</div>
+<div class="bg-popover-content" id="passage-options-popover">
+<ul class="passage-options-list bg-popover-list">
+<li class="toggle-footnotes"><span class="option-checkbox icon-checkbox-empty"></span>Footnotes</li>
+<li class="toggle-crossrefs"><span class="option-checkbox icon-checkbox-empty"></span>Cross references</li>
+<li class="toggle-versenums"><span class="option-checkbox icon-checkbox-empty"></span>Verse Numbers</li>
+<li class="toggle-headings"><span class="option-checkbox icon-checkbox-empty"></span>Headings</li>
+<li class="toggle-redletter"><span class="option-checkbox icon-checkbox-empty"></span>Red Letter</li>
+</ul>
+</div>
+<div aria-hidden="true" aria-labelledby="passage-share-modal-label" class="modal bg-modal fade" id="passage-share-modal" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">Share</h4>
+</div>
+<div class="modal-body">
+<ul class="share-modal-list">
+<li>
+<a class="icon-print">Print</a>
+</li>
+<li>
+<a class="icon-twitter"></a>
+</li>
+<li>
+<a class="icon-facebook">Facebook</a>
+</li>
+<li>
+<a class="icon-email">Email</a>
+</li>
+</ul>
+</div>
+<div class="bg-modal-button">
+<div class="standard-row">
+<div class="bg-modal-button-single-col">
+<a class="standard-btn bg-modal-close" data-dismiss="modal" type="button">Close</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="crossref-tooltip">
+<div class="title">Cross references</div>
+<div class="content">
+<div class="crossref-ref"></div>
+<div class="crossref-passage"><img class="passagenote-spinner" src="https://static6-a.akamaihd.net/assets/images/spinner.gif?aeaa6cda"/><div class="tooltip-passage-content"></div></div>
+</div>
+</div>
+<div class="footnote-tooltip">
+<div class="title">Footnotes</div>
+<div class="content">
+</div>
+</div>
+<div class="bibleref-tooltip">
+<div class="content">
+<img class="passagenote-spinner" src="https://static6-a.akamaihd.net/assets/images/spinner.gif?aeaa6cda"/>
+<div class="tooltip-passage-content"></div>
+</div>
+</div>
+<div aria-hidden="true" aria-labelledby="nav-modal-label" class="modal fade" id="nav-modal" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header container">
+<!-- <div class="modal-title-wrapper">
+    <h4 class='modal-title'>Home</h4>
+                <span class='pull-right nav-open-icon icon-up-down-arrows'></span>
+              </div>
+              <button aria-hidden class='close' data-dismiss='modal' type='button'>
+                &times;
+              </button> -->
+<div class="nav-modal-version col-xs-12 pull-left">
+<div class="modal-current" data-dismiss="modal">
+<span>Home</span>
+<span class="pull-right nav-open-icon icon-down-arrow"></span>
+</div>
+</div>
+<button aria-hidden="" class="close" data-dismiss="modal" type="button">
+                ×
+              </button>
+</div>
+<div class="modal-body">
+<ul class="main-nav-list">
+<li class="main-nav-dropdown-item">
+<a class="main-nav-level active" href="/">Home</a>
+</li>
+<li class="main-nav-dropdown-item">
+<span class="main-nav-level">Bible</span>
+<ul class="main-nav-sub-list">
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/passage/">Passage Lookup</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/keyword/">Keyword Search</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/versions/">Available Versions</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/resources/audio/">Audio Bibles</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/resources/scripture-engagement/">Bible Engagement</a>
+</li>
+</ul>
+</li>
+<li class="main-nav-dropdown-item">
+<span class="main-nav-level">Study</span>
+<ul class="main-nav-sub-list">
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/topical/">Topical Index</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/devotionals/">Devotionals</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/reading-plans/">Reading Plans</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/newsletters/">Newsletters</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/resources/">More Resources</a>
+</li>
+</ul>
+</li>
+<li class="main-nav-dropdown-item">
+<a class="main-nav-level" href="/app/">App</a>
+</li>
+<li class="main-nav-dropdown-item shop-nav">
+<span class="main-nav-level">Store</span>
+<ul class="main-nav-sub-list">
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="/digitalstore/" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'digitalstudies']);">Digital Products</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-bibles?p=1182476" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'printbibles']);">Bibles</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="http://biblegateway.christianbook.com/page/tcg/biblegateway/bg-bibles/bg-audio-bibles?p=1182477" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'audiobibles']);">Audio</a>
+</li>
+<li class="main-nav-sub-dropdown-item">
+<a class="main-nav-sub-level" href="http://biblegateway.christianbook.com/?p=1182478" onclick="_gaq.push(['_trackEvent', 'CBD Nav Link', 'click', 'more']);">More</a>
+</li>
+</ul>
+</li>
+<li class="main-nav-dropdown-item login-mobile-menu">
+<span class="main-nav-level">My Account</span>
+<ul class="main-nav-sub-list">
+<li class="main-nav-sub-dropdown-item"><a class="main-nav-sub-level" href="/user/products/">My Library</a></li>
+<li class="main-nav-sub-dropdown-item"><a class="main-nav-sub-level" href="/user/annotations/">My Annotations</a></li>
+<li class="main-nav-sub-dropdown-item"><a class="main-nav-sub-level" href="/user/account/">Account Settings</a></li>
+<li class="main-nav-sub-dropdown-item"><a class="main-nav-sub-level" href="/logout/">Log Out</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-popup">
+<div class="bg-popup-header">
+<span class="bg-popup-header-text"></span>
+<div class="close icon-close"></div>
+</div>
+<div class="bg-popup-content">
+</div>
+</div>
+<script src="https://static6-a.akamaihd.net/assets/js/all.min.js?aeaa6cda" type="text/javascript"></script> <script>BG.appData({"locale":"en","cdn_host":"https:\/\/static6-a.akamaihd.net","bbl":{"start_book":"72","start_chapter":"1","end_book":"72","end_chapter":"1"},"version0":{"version_id":"NIV"},"side_merch":["<div class=\"recommendations-column col-full\"><div class=\"product\" data-sku=\"621171DA\"><figure class=\"product-img\"><a href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=621171DA&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310621171']);\"><img width=\"108\" height=\"108\" src=\"\/\/g.christianbook.com\/g\/thumbnail\/6\/621171dat.gif\" alt=\"NIV FaithGirlz! Backpack Bible --imitation leather, pink (slightly imperfect)\" \/><\/a><\/figure><div class=\"product-info\"><a class=\"product-title\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=621171DA&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310621171']);\">NIV FaithGirlz! Backpack Bible --imitation leather, pink (slightly imperfect)<\/a><div class=\"product-retail-price\">Retail: $16.99<\/div><strong>Our Price: $6.99<\/strong><span>Save: $10.00 (59%)<\/span><a class=\"btn product-btn-buy\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=621171DA&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310621171']);\">Buy Now<\/a><\/div><!-- .product-info --><\/div><!-- .product --><\/div><!-- .recommendations-column -->","<div class=\"recommendations-column col-full\"><div class=\"product\" data-sku=\"434764\"><figure class=\"product-img\"><a href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=434764&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310434764']);\"><img width=\"108\" height=\"108\" src=\"\/\/g.christianbook.com\/g\/thumbnail\/4\/434764t.gif\" alt=\"NIV Life Application Study Bible, Large Print, Bonded Leather, Burgundy, Thumb Indexed\" \/><\/a><\/figure><div class=\"product-info\"><a class=\"product-title\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=434764&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310434764']);\">NIV Life Application Study Bible, Large Print, Bonded Leather, Burgundy, Thumb Indexed<\/a><div class=\"product-retail-price\">Retail: $89.99<\/div><strong>Our Price: $49.99<\/strong><span>Save: $40.00 (44%)<\/span><div class=\"merch-stars stars-50\"><img src=\"https:\/\/static6-a.akamaihd.net\/assets\/images\/merch\/stars50.png?aeaa6cda\" alt=\"5.0 of 5.0 stars\" \/><\/div><a class=\"btn product-btn-buy\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=434764&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '9780310434764']);\">Buy Now<\/a><\/div><!-- .product-info --><\/div><!-- .product --><\/div><!-- .recommendations-column -->","<div class=\"recommendations-column col-full last\"><div class=\"product\" data-sku=\"205771CS\"><figure class=\"product-img\"><a href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=205771CS&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);\"><img width=\"108\" height=\"108\" src=\"\/\/g.christianbook.com\/g\/thumbnail\/2\/205771cst.gif\" alt=\"NIV Outreach Bible: Holy Bible, 24 copies\" \/><\/a><\/figure><div class=\"product-info\"><a class=\"product-title\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=205771CS&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);\">NIV Outreach Bible: Holy Bible, 24 copies<\/a><div class=\"product-retail-price\">Retail: $102.96<\/div><strong>Our Price: $71.99<\/strong><span>Save: $30.97 (30%)<\/span><a class=\"btn product-btn-buy\" href=\"http:\/\/biblegateway.christianbook.com\/Christian\/Books\/product?item_no=205771CS&amp;p=1172354\" rel=\"nofollow\" target=\"_blank\" onClick=\"_gaq.push(['_trackEvent', 'CBD Passage', 'click', '']);\">Buy Now<\/a><\/div><!-- .product-info --><\/div><!-- .product --><\/div><!-- .recommendations-column -->"],"osis":"Jude.1.1-Jude.1.25\/niv","osis_w_verse":"Jude.1.1-Jude.1.25\/niv"});</script><script src="/preferences/js/"></script>
+<script type="text/javascript">
+  bgLogger.logPageview("BG6:/bible/Jude.1.1-Jude.1.25/niv", "G003", {}, "2cb244b9d4bde62d6f1f2b79e686c445", "", 'p');
+</script>
+<script type="text/javascript">
+_gaq.push(['_trackEvent', 'translation', 'NIV', 'passage']);
+bgLogger.logCE('passage', "2cb244b9d4bde62d6f1f2b79e686c445", "Jude.1.1-Jude.1.25/niv");
+</script>
+<script type="text/javascript">
+var google_conversion_id = 973793713;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973793713/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+          BG.Tracker.trackProduct("BG6-NIV");
+     </script>
+<script type="text/javascript">
+    (function() {
+    var a1s = document.createElement('script');
+    a1s.type = 'text/javascript';
+    a1s.async = true;
+    a1s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tr-1.agilone.com/tr-as.js';
+    var a1ss = document.getElementsByTagName('script')[0];
+    a1ss.parentNode.insertBefore(a1s, a1ss);
+    })();
+    </script>
+</div></section></body>
+</html>
+>
